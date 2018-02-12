@@ -45,5 +45,3 @@ If you are a biologist and want to explore something outside your expertise, you
 
 ![image](https://user-images.githubusercontent.com/29623255/36112275-7ac19b8a-106c-11e8-814d-fb829ab7fb41.png)
 
-
-Let’s start making open-sourced bio-hacking kit.
