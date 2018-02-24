@@ -4,8 +4,8 @@ layout: default
 
 #Spirulina maxima
 
--Cyanobacteria
--Grow best on Spirulina medium
+- Cyanobacteria
+- Grow best on Spirulina medium
 
 ![Image of spirulina](/images/spirulina.jpg)
 
