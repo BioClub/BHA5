@@ -2,14 +2,15 @@
 layout: default
 ---
 
-#Spirulina maxima
+# Spirulina maxima
 
 - Cyanobacteria
 - Grow best on Spirulina medium
 
 ![Image of spirulina](/images/spirulina.jpg)
 
-##Spirulina medium
+## Spirulina medium
+
 Compound | Amount | Unit |
 --- | --- | --- |
 Yeast extract | 0.4 | g |
@@ -19,7 +20,8 @@ Agar	| 3.0	| g |
 Demi water |	200	| ml |
 Set pH ~4.7| | |
 
-##Easier one
+## Easier one
+
 Compound | Amount | Unit |
 --- | --- | --- |
 Nutrients for algae | 0.2 | ml |
