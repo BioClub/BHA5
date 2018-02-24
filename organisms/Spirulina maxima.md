@@ -11,7 +11,7 @@ tags:
 -Cyanobacteria
 -Grow best on Spirulina medium
 
-![Image of Spirulina](images/spirulina.jpg)
+![Image of spirulina](/images/spirulina.jpg)
 
 #Spirulina medium
 Compound | Amount | Unit |
