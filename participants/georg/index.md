@@ -3,7 +3,6 @@ layout: home
 author: georg
 ---
 
-# Georg Tremmel
 ## Documentation
 
 ## Hello
