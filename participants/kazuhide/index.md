@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## biotechnology for everyone  
 
 ![image](https://user-images.githubusercontent.com/29623255/36112159-12258708-106c-11e8-8ab3-006a9d11d9c1.png)

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 ---
+
 
 ![Test Image](./BHA5.png)
 
