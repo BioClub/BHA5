@@ -10,7 +10,7 @@
     {% include header.html %}    
     <div class="page-content">
       <div class="wrapper">
-        <h1>{% if author.display_name != empty %}{{ author.display_name }}{% elsif %}{{ page.author }}{% endif %}</h1>
+        <h1>{{ author.display_name }}</h1>
         
         {% for post in site.posts %} 
           {% if post.author == page.author %}
