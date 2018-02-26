@@ -7,6 +7,12 @@
 
     {% include header.html %}
 
+    {% for post in site.posts %} 
+      {% if post.author == page.author %}
+        <li>{{ post.title }}</li> 
+      {% endif %}
+    {% endfor %}
+    
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
