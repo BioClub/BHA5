@@ -4,9 +4,13 @@ layout: default
 
 # Participants
 
+BioHack Academy 5 Japan is jointly organised by Georg Tremmel and Yumi Nishihara. 
+The lab spaces are kindly provided by [BioClub](http://www.bioclub.org) and the UINIMLKU - Universal Information 
+Network Interactive Matter Lab, Keio University.
+
 #### Organisers
-- [Georg Tremmel](georg/)
-- Yumi Nishihara
+- [Georg Tremmel](georg/) (BioClub)
+- [Yumi Nishihara](yumi/) (UINIMLKU)
 
 #### Students
 - [Jun Nishimura](jun/)
@@ -27,5 +31,5 @@ layout: default
 #### Thanks to
 - Chiaki Ishizuka (BioClub, Loftwork)
 - Benkei (FabCafe MTRL)
-- Yasuaki Kakehi (SFC Keio)
+- Yasuaki Kakehi (SFC Keio, UINIMLKU)
 
