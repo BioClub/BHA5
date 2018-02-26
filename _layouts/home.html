@@ -14,7 +14,10 @@
         
         {% for post in site.posts %} 
           {% if post.author == page.author %}
-          <div class='posts'>{{ post.title }}</div> 
+          <div class='post-links'>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <span>{{ post.date | date: "%-d %B %Y"}}</span>
+          </div> 
           {% endif %}
         {% endfor %}
         
