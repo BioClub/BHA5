@@ -5,18 +5,15 @@
 
   <body>
 
-    {% include header.html %}
-
-    aaa
-    {% for post in site.posts %} 
-      {% if post.author == page.author %}
-        <li>{{ post.title }}</li> 
-      {% endif %}
-    {% endfor %}
-    zzz
-    
+    {% include header.html %}    
     <div class="page-content">
       <div class="wrapper">
+        {% for post in site.posts %} 
+          {% if post.author == page.author %}
+          <div class='posts'>{{ post.title }}</div> 
+          {% endif %}
+        {% endfor %}
+        
         {{ content }}
       </div>
     </div>
