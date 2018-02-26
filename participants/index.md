@@ -28,3 +28,4 @@ layout: default
 - Chiaki Ishizuka (BioClub, Loftwork)
 - Benkei (FabCafe MTRL)
 - Yasuaki Kakehi (SFC Keio)
+
