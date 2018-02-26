@@ -3,7 +3,7 @@ layout: post
 title:  "Ways of infection"
 author: kent
 date:   2018-02-03 12:00:00
-categories: general
+categories: homework
 tags: 
 ---  
   

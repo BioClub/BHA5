@@ -3,7 +3,7 @@ layout: post
 title:  "definition of death"
 author: yohei
 date:   2018-02-10 11:00:00
-categories: general
+categories: homework
 tags: 
 ---
 

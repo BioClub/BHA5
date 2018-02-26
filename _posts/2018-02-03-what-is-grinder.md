@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "what is grinder?"
+title:  "BioHacking vs. BioHacking"
 author: kazuhide
 date:   2018-02-03 12:00:00
-categories: general
+categories: homework
 tags: 
 ---
 
@@ -20,10 +20,7 @@ tags:
 
 # We must use these technologies correctly
 
-gene-editing
-
-gene-drive
-
-gene-cloneing
-
-etc
+- gene-editing
+- gene-drive
+- gene-cloneing
+- etc

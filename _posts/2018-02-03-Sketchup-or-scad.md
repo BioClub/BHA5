@@ -4,7 +4,7 @@ title: "Sketchup or OpenSCAD for CADing?"
 date: 2018-2-3-12:00:00
 author: sota
 categories: general
-tags: Fabbing
+tags: fabbing
 ---
 
 ![this](/images/2018-2-3-sotaspost.png)

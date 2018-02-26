@@ -3,8 +3,8 @@ layout: post
 title:  "BHA5 class 2 filaments"
 author: johan
 date:   2018-02-06 10:00:34
-categories: general
-tags: class homework
+categories: homework
+tags: class2 
 ---
 
 [Image of BHA5 class 2 filaments]
