@@ -11,6 +11,11 @@
     <div class="page-content">
       <div class="wrapper">
         <h1>{{ author.display_name }}</h1>
+        {% if author.icon != empty %} icon url: {{ author.icon | prepend: site.baseurl }}{% endif %}
+        {% if author.facebook != empty %} facebook: {{ author.facebook }}{% endif %}
+        {% if author.twitter != empty %} twitter: {{ author.twitter }}{% endif %}
+        {% if author.color != empty %} color: {{ author.color }}{% endif %}
+        {% if author.url != empty %} website: {{ author.url }}{% endif %}
         
         {% for post in site.posts %} 
           {% if post.author == page.author %}
