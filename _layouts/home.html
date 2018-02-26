@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 
+  {% assign author = site.data.authors[page.author] %}
+  
   {% include head.html %}
 
   <body>
@@ -8,6 +10,8 @@
     {% include header.html %}    
     <div class="page-content">
       <div class="wrapper">
+        <h1>{% if author.display_name  != empty %}{{ author.display_name }}{% elseif %}{{ page.author }}{% endif %}</h1>
+        
         {% for post in site.posts %} 
           {% if post.author == page.author %}
           <div class='posts'>{{ post.title }}</div> 
