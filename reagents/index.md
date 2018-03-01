@@ -6,7 +6,7 @@ layout: default
 ### 干物:
 
 | Name | Formula | Japanese | Price | Link |
-| ---- | ---- | ---- | ---- | ---- |
+| :---- | ---- | ---- | ---- | ---- |
 | Sodium Bicarbonate (Baking Powder) | NaHCO3 | 重炭酸ナトリウム(重曹) | | [Monotaro](https://www.monotaro.com/p/1922/2534/) |
 | Pottasium Nitrate | KNO3 | 硝酸カリウム | | [Monotaro](https://www.monotaro.com/p/1171/6172/) |
 | Ammonium Phosphate | (NH4)3PO4 | リン酸アンモニウム | | |
