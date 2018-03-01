@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# 干物:
+# Reagents List (and where to get them in Japan)
+### 干物:
 
 | Name | Formula | Japanese | Price | Link |
 | ---- | ---- | ---- | ---- | ---- |
