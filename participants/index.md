@@ -19,7 +19,6 @@ Network Interactive Matter Lab, Keio University.
 - [Yohei Inokuchi](yohei/)
 - [Johan R](johan/)
 - [Keisuke Yamada](keisuke/)
-- [Kent Sato](kent_sato/)
 - [Youngah seong](youngah/)
 
 #### Special Guests
@@ -27,6 +26,7 @@ Network Interactive Matter Lab, Keio University.
 - Kosuke Kantano (Wild Scientist)
 - Hiroo Komine (BHA4 Alumni)
 - Yuki Tanaka (Shojin Meat)
+- [Kent Sato](kent_sato/)
 
 #### Thanks to
 - Chiaki Ishizuka (BioClub, Loftwork)
