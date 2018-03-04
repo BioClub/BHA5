@@ -1,5 +1,5 @@
 
-# JUN　Nishimura
+# Jun　Nishimura
 
 ### About Me
 - who are you?
@@ -16,11 +16,14 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 
 ### Final Presentation
 #### the project overview
+I want to make an art work with my genital bacteria or sperm.
 
-### background 
+#### background 
+In public, topics related to erotics tends to be put into the backside of the world. Talking about sex in public is taboo and erotics is treated as the dirty thing.(I don't know about other countries, but at least in Japan it is.) I don't like this situation. Thus I want to throw the question to the public by creating an art work.
 
-### what I use
 
-### 
+#### what I use
+
+#### what I do 
 
 
