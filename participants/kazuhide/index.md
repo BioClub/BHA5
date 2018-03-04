@@ -6,7 +6,7 @@ layout: home
 
 PlanA 　
 
-I want to compare how slime mold and ants will solve the same maze.  
+I want to compare how slime mold and ants will solve the same maze.  
 Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime mold.  
 I found the article that slime mold can select most shortest route of maze. Ants also can do that.  
 
