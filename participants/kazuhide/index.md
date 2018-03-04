@@ -34,7 +34,6 @@ If you don’t have curiosity about bio-technology, I think this is because you 
 
 I recommend DIY bio, bio-hacking.  
 It is a movement that is utilized not just by researchers, but citizens alike for biotechnology.  
-I am a member of Tokyo DIY bio lab, and have already done gene-editing in my University.  
 Currently you can join a DIY bio lab course only in Tokyo and Yamaguchi in Japan.  
 I want to create a DIY bio lab in Kobe.  
 DIY bio lab is a platform for both citizen and researchers studying and exploring biotechnology.  
