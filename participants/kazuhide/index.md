@@ -4,14 +4,13 @@ layout: home
 
 # My personal project
 
+I want to compare how slime mold and ants will solve the same maze.  
+Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime mold.  
+I found the article that slime mold can select most shortest route of maze. Ants also can do that.  
+
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
 
-## idea
-
-I want to compare how slime mold and ants will solve the same maze.　　
-Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime mold.　　
-I found the article that slime mold can select most shortest route of maze. Ants also can do that.
 
 # My definition of DIYbio
 
