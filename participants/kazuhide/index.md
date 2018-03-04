@@ -5,7 +5,7 @@ layout: home
 ## my project
 
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
-![image](https://user-images.githubusercontent.com/29623255/36946232-046604ee-1ffd-11e8-8050-93bc9ba516f1.png)
+![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
 
 ## biotechnology for everyone  
 
