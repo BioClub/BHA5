@@ -4,6 +4,7 @@ layout: home
 
 # My personal project
 
+
 PlanA 　
 
 I want to compare how slime mold and ants will solve the same maze.  
@@ -21,24 +22,23 @@ PlanC
 
 粘菌やアリが嫌がる物質を置いたり塗ったりして、彼らの「嫌悪感」を数値化したい。
 
-#　面白いと思ったプロジェクト、気になった言葉
+# 面白いと思ったプロジェクト、気になった言葉
 
--バイオデザインとは  
+- バイオデザインとは  
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
 
-## 3Dバイオプリント系
-### 3Dプリンターを使う系
- biocurious　　人工的に植物の細胞をプリントしてそれで光合成　-> めっちゃエコ  https://sites.google.com/site/bioprinterwiki/
-### 3Dプリンター使わない系(ある意味3Dプリンター)
- SILK PAVILION カイコを生体3Dプリンターとして使用　→ 蜘蛛とかでもできるらしい　
- 豚の心臓から幽霊組織を作って、そこに人の細胞を注入　→　すでに形あるもの使うのは賢い(他にもりんごから人間の耳作るとか)
- 菌糸体キノコ　　ダンボールと菌糸体で家具作成　→ 建築を「育てる」とか知らなかった
+## バイオファブリケーション
+[biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ 
+[SILK PAVILION](http://matter.media.mit.edu/environments/details/silk-pavillion) カイコを生体3Dプリンターとして使用,蜘蛛とかでもできるらしい 
+[幽霊細胞](http://www.instructables.com/id/Ghost-Heart-in-a-Jar/)豚の心臓から幽霊組織を作って、そこに人の細胞を注入　→　すでに形あるもの使うのは賢い[りんご耳](http://tocana.jp/2016/06/post_10094_entry.html)  
+[ゴッホの耳](http://fundo.jp/47249)  
+菌糸体キノコ ダンボールと菌糸体で家具作成　→ 建築を「育てる」とか知らなかった
 
 ## 自己医療系
- Nightscout　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
+Nightscout　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
 
 ## 発電系
-バクテリアで作るバイオ光起電性パネル　https://iaac.net/research-projects/self-sufficiency/bio-photovoltaic-system/
+[バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/bio-photovoltaic-system/)
 
 # My definition of DIYbio
 
