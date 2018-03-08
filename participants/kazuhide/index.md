@@ -23,8 +23,8 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 手相と遺伝子とマイクロバイオームの関係を探りたい。
 
-１、自分の遺伝子を解析。
-２、自分の手を石膏みたいなので型とって、手相を3Dで再現する。
+１、自分の遺伝子を解析。  
+２、自分の手を石膏みたいなので型とって、手相を3Dで再現する。  
 3、迷信のような手相学と、遺伝子解析結果の相関をみる。寿命、IQ、など
 
 # 面白いと思ったプロジェクト、気になった言葉
@@ -45,7 +45,8 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 「弱いがたくさんの変数の関係したカオスによる安定性機構」、エピジェネティクスとも関わっていそうな概念
 
 ## プロトセルとは
-生命と非生命を考えることは、生命とその可能性の理解となる[Ted]（https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja）
+生命と非生命を考えることは、生命とその可能性の理解となる  
+- [Ted]（https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja）
 
 ## Anonymus
 - [Vegan推進](https://anonymous.org.il/english)
@@ -78,10 +79,8 @@ If you suddenly want to start learning about bio-technology, how do you begin?
 Reading books? Searching the Internet?If you think It is not enough, What would you do?  
 Conduct research in a university laboratory or find a job in a company?  
 But  what about people who cannot access these resources because of some personal reason.How can they start bio-technology? 
-
-Or  
-
-If you don’t have curiosity about bio-technology, I think this is because you assume it is difficult and is not useful for you daily life. I want to talk to you about the  potential it has. 
+   
+If you don’t have curiosity about bio-technology, I think this is because you assume it is difficult and is not useful for you daily life. I want to talk to you about the  potential it has and how it is concerned with you!
 
 ![image](https://user-images.githubusercontent.com/29623255/37167397-2b60e226-2345-11e8-9122-32c7d81b4d51.png)
 
@@ -90,7 +89,10 @@ A month ago, Chinese scientists created them for the first time.
 Now Humans have the technology to change genes freely.  
 I think Technology itself is neither good nor bad.  
 It’s up to us.  
-In a few years we have to decide how to use it  in individual or social level.  
+But we don't think it in indivisual level yet.  
+It's severe probrem.  
+In a few years we have to decide how to use it  in individual or social level. 
+Are you for or against designer babies?  
 We need the place to prepare for our near feature choice.  
 We need the place to feel close to biotechnology.  
 
