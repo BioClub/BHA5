@@ -29,19 +29,19 @@ I found the article that slime mold can select most shortest route of maze. Ants
 脳をリバースエンジニアリングする発想だけでは足らない
 
 ## Anonymus
-[Vegan推進](https://anonymous.org.il/english)
+- [Vegan推進](https://anonymous.org.il/english)
 
 ## バイオファブリケーション
-[biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
-[SILK PAVILION](http://matter.media.mit.edu/environments/details/silk-pavillion) カイコを生体3Dプリンターとして使用,蜘蛛とかでもできるらしい  
-[幽霊細胞](http://www.instructables.com/id/Ghost-Heart-in-a-Jar/) 豚の心臓から幽霊組織を作って、そこに人の細胞を注入→すでに形あるもの使うのは賢い、[りんご耳](http://tocana.jp/2016/06/post_10094_entry.html)、[ゴッホの耳](http://fundo.jp/47249)  
-[菌糸体キノコ](http://makezine.jp/blog/2016/10/biodesign-and-biomaterials.html) ダンボールと菌糸体で家具作成　→ 建築を「育てる」とか知らなかった
+- [biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
+- [SILK PAVILION](http://matter.media.mit.edu/environments/details/silk-pavillion) カイコを生体3Dプリンターとして使用,蜘蛛とかでもできるらしい  
+- [幽霊細胞](http://www.instructables.com/id/Ghost-Heart-in-a-Jar/) 豚の心臓から幽霊組織を作って、そこに人の細胞を注入→すでに形あるもの使うのは賢い、[りんご耳](http://tocana.jp/2016/06/post_10094_entry.html)、[ゴッホの耳](http://fundo.jp/47249)  
+- [菌糸体キノコ](http://makezine.jp/blog/2016/10/biodesign-and-biomaterials.html) ダンボールと菌糸体で家具作成→建築を「育てる」とか知らなかった
 
 ## セルフメディケーション
-[Nightscout](http://www.nightscout.info/)　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
+- [Nightscout](http://www.nightscout.info/)　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
 
 ## 発電
-[バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。そうやって電気を取り出す。
+- [バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。そうやって電気を取り出す。
 
 # My definition of DIYbio
 
