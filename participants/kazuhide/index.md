@@ -6,7 +6,7 @@ layout: home
 ## PlanA 　
 I want to compare how slime mold and ants will solve the same maze.  
 Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime mold.  
-I found the article that slime mold can select most shortest route of maze. Ants also can do that.  
+I found the article that slime mold can select the shortest route of a maze. Ants also can do that.  
 
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
@@ -25,8 +25,13 @@ I found the article that slime mold can select most shortest route of maze. Ants
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
 
 ## マイクロバイオームとは
-生体をハッキングするためには、どうやら微生物のことを考えなければならないようだ..　　
-脳をリバースエンジニアリングする発想だけでは足らない
+生体をハッキングするためには、どうやら微生物のことを考えなければならないみたい。脳をリバースエンジニアリングする発想だけでは足らない？
+
+## エピジェネティクスとは
+DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は環境因子で変わる。リプログラミングはエピジェネティックな標識を初期化すること。
+
+## ホメオカオスとは
+「弱いがたくさんの変数の関係したカオスによる安定性機構」、エピジェネティクスとも関わっていそうな概念
 
 ## Anonymus
 - [Vegan推進](https://anonymous.org.il/english)
@@ -40,8 +45,8 @@ I found the article that slime mold can select most shortest route of maze. Ants
 ## セルフメディケーション
 - [Nightscout](http://www.nightscout.info/)　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
 
-## 発電
-- [バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。そうやって電気を取り出す。
+## 発電できる？
+- [バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。それで電子取り出して、コンデンサーみたいなのにためて、電池作る。
 
 # My definition of DIYbio
 
