@@ -19,10 +19,21 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 粘菌やアリが嫌がる物質を置いたり塗ったりして、彼らの「嫌悪感」を数値化したい。
 
+## PlanD
+
+手相と遺伝子とマイクロバイオームの関係を探りたい。
+
+１、自分の遺伝子を解析。
+２、自分の手を石膏みたいなので型とって、手相を3Dで再現する。
+3、迷信のような手相学と、遺伝子解析結果の相関をみる。寿命、IQ、など
+
 # 面白いと思ったプロジェクト、気になった言葉
 
 ## バイオデザインとは  
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
+
+## バイオアートとは
+アートは生命の未来を更新するのか？バイオへの入り口になるかもしれない。未来の可能性の翻訳。
 
 ## マイクロバイオームとは
 生体をハッキングするためには、どうやら微生物のことを考えなければならないみたい。脳をリバースエンジニアリングする発想だけでは足らない？
@@ -32,6 +43,9 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 
 ## ホメオカオスとは
 「弱いがたくさんの変数の関係したカオスによる安定性機構」、エピジェネティクスとも関わっていそうな概念
+
+## プロトセルとは
+生命と非生命を考えることは、生命とその可能性の理解となる[Ted]（https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja）
 
 ## Anonymus
 - [Vegan推進](https://anonymous.org.il/english)
@@ -56,7 +70,7 @@ Hello, my name is Kazuhide Hane.
 I am a medical student at Kobe University.  
 I’m currently very interested in biotechnology.  
 
-## our issue
+## Our issue
 
 ![image](https://user-images.githubusercontent.com/29623255/36112187-2b198a34-106c-11e8-97d3-58cbc1768836.png)
 
@@ -67,9 +81,20 @@ But  what about people who cannot access these resources because of some persona
 
 Or  
 
-If you don’t have curiosity about bio-technology, I think this is because you assume it is difficult and is not useful for you daily life. I want to talk to you about the  potential it has.  
+If you don’t have curiosity about bio-technology, I think this is because you assume it is difficult and is not useful for you daily life. I want to talk to you about the  potential it has. 
 
-## my solution
+![image](https://user-images.githubusercontent.com/29623255/37167397-2b60e226-2345-11e8-9122-32c7d81b4d51.png)
+
+Look at this picture. They are cloned monkeys.  
+A month ago, Chinese scientists created them for the first time.  
+Now Humans have the technology to change genes freely.  
+I think Technology itself is neither good nor bad.  
+It’s up to us.  
+In a few years we have to decide how to use it  in individual or social level.  
+We need the place to prepare for our near feature choice.  
+We need the place to feel close to biotechnology.  
+
+## My solution
 
 ![image](https://user-images.githubusercontent.com/29623255/36112224-432ed3c2-106c-11e8-8adc-6b1d80a1ed46.png)
 
@@ -80,7 +105,7 @@ I want to create a DIY bio lab in Kobe.
 DIY bio lab is a platform for both citizen and researchers studying and exploring biotechnology.  
 You can create an affordable lab by making your own equipment. DIY bio lab is one solution for achieving goals for your personal project. It’s not necessary to buy expensive equipment.  
 
-## your merit
+## Your merit
 
 ![image](https://user-images.githubusercontent.com/29623255/36112256-656fe322-106c-11e8-8bff-3b712d0d75b4.png)
 
@@ -90,7 +115,10 @@ If you are interested in health and wellness, you can share knowledge acquired f
 If you are an artist, you can acquire the way of new expression, through your work you can show people a new future.  
 If you are a biologist and want to explore something outside your expertise, you can freely enjoy biohacking without the structure of a course.  
 
-## let's start biohacking
+## Let's start biohacking
 
 ![image](https://user-images.githubusercontent.com/29623255/36112275-7ac19b8a-106c-11e8-814d-fb829ab7fb41.png)
+
+So far Only scientists can accuses biotechnology.But now Thorough DIYbio citizen can dive into the world of biotechnology and prepare for our future choise.
+
 
