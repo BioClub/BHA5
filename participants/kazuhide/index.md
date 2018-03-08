@@ -3,10 +3,7 @@ layout: home
 ---
 
 # My personal project
-
-
-PlanA 　
-
+## PlanA 　
 I want to compare how slime mold and ants will solve the same maze.  
 Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime mold.  
 I found the article that slime mold can select most shortest route of maze. Ants also can do that.  
@@ -14,11 +11,11 @@ I found the article that slime mold can select most shortest route of maze. Ants
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
 
-PlanB  
+## PlanB  
 
 「働かないアリの粘菌生活」をテーマにして、アリと粘菌をコラボさせれたらなと思っています。アリが粘菌によって持続的に栄養を補給できるような世界を作って、働きアリをいなくさせるみたいなこと.
 
-PlanC  
+## PlanC  
 
 粘菌やアリが嫌がる物質を置いたり塗ったりして、彼らの「嫌悪感」を数値化したい。
 
@@ -31,17 +28,20 @@ PlanC
 生体をハッキングするためには、どうやら微生物のことを考えなければならないようだ..　　
 脳をリバースエンジニアリングする発想だけでは足らない
 
+## Anonymus
+[Vegan推進](https://anonymous.org.il/english)
+
 ## バイオファブリケーション
 [biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
 [SILK PAVILION](http://matter.media.mit.edu/environments/details/silk-pavillion) カイコを生体3Dプリンターとして使用,蜘蛛とかでもできるらしい  
-[幽霊細胞](http://www.instructables.com/id/Ghost-Heart-in-a-Jar/) 豚の心臓から幽霊組織を作って、そこに人の細胞を注入→すでに形あるもの使うのは賢い、[りんご耳](http://tocana.jp/2016/06/post_10094_entry.html)、[ゴッホの耳](http://fundo.jp/47249) 
+[幽霊細胞](http://www.instructables.com/id/Ghost-Heart-in-a-Jar/) 豚の心臓から幽霊組織を作って、そこに人の細胞を注入→すでに形あるもの使うのは賢い、[りんご耳](http://tocana.jp/2016/06/post_10094_entry.html)、[ゴッホの耳](http://fundo.jp/47249)  
 [菌糸体キノコ](http://makezine.jp/blog/2016/10/biodesign-and-biomaterials.html) ダンボールと菌糸体で家具作成　→ 建築を「育てる」とか知らなかった
 
 ## セルフメディケーション
 [Nightscout](http://www.nightscout.info/)　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
 
 ## 発電
-[バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。 バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。そうやって電気を取り出す。
+[バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。そうやって電気を取り出す。
 
 # My definition of DIYbio
 
