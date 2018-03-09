@@ -13,7 +13,13 @@ layout: home
 
 **Mid term presentation** : [PDF](/BHA5_Mid_Term_Presentation_hiroki_PDF.pdf)-[Video](https://youtu.be/3Wg5OagyERs)
 
-# Schedule of my Project 
+## My Project
+![image](/hiroki/Project image sketch.PNG)  
+In my project, I'm going to make musical card for musical box using the patterns of holes of warm-eaten  
+I'll control the position of warm-eaten  
+In my plan, I would like to use **紙魚Simi (Bookworm)** which is one of the insect eat paper
+
+## Schedule of my Project 
 ## 3/10 SAT
   - Hunt Simi
   - choose what kind of Musical Box & Paper Material
