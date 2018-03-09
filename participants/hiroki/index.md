@@ -30,7 +30,9 @@ layout: home
 ## 3/24 SAT
  - Ethological Experiment 
  - Create Punching Card with insects   
-    - Pointing or Just Natural
+    - ***Plan A*** : Pointing by using Sterch / Labender compornent or Lighting or Heating 
+    - ***Plan B*** : Just Natural
+    - ***Plan C*** : Scaning the pattern of holes, and Cutting the pattern on the paper using laser cutter
 ## 3/26 MON
  - Lecture 18:00-20:00 (in Japan)
 ## 3/27 TUE
@@ -39,4 +41,4 @@ layout: home
  - Crate Punching Card & Playing
  - Make Promotion Video (optional)
 ## 4/2 MON
-- **Final Presentation**
+ <font color = "Red">**Final Presentation**</font>
