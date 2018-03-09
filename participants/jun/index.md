@@ -22,8 +22,22 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 |  | Plan A | Plan B |
 |:-----------:|:-----------:|:------------:|
 | title | the world in 0.06mm | what is beatiful and what is dirty? |
-| video | [link](https://vimeo.com/258767241) | [link]() |
+| video | [vimeo link](https://vimeo.com/258767241) | [vimeo link](https://vimeo.com/259296278) |
 | final goal |  |  |
+
+#### time schedule
+
+|  | Plan A | Plan B |
+|:-----------:|:-----------:|:------------:|
+| 3/10(Saturday) | make a stirrer |  |
+| 3/13(Tuesday) |  |  |
+| 3/17(Saturday) |  |  |
+| 3/20(Tuesday) |  |  |
+| 3/24(Saturday) |  | Until here, I will take the video |
+| 3/27(Tuesday) |  |  |
+| 3/31(Saturday) |  |  |
+| 4/2(Monday) |  |  |
+
 
 
 
