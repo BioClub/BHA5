@@ -1,11 +1,22 @@
 ---
 layout: home
 ---
+# My schedule
+|  | Plan |
+|:-----------:|:-----------:|
+| 3/10(Saturday) | ❌ |
+| 3/13(Tuesday) |  |
+| 3/17(Saturday) | Shojin meat |
+| 3/20(Tuesday) | ❌ |
+| 3/24(Saturday) |  |
+| 3/27(Tuesday) | ❌ |
+| 3/31(Saturday) |  |
+| 4/2(Monday) |  |
 
 # My personal project
 ## PlanA 　
 I want to compare how slime mold and ants will solve the same maze.  
-Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime mold.  
+Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime molds.  
 I found the article that slime mold can select the shortest route of a maze. Ants also can do that.  
 
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
@@ -23,11 +34,17 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 手相と遺伝子とマイクロバイオームの関係を探りたい。
 
-１、自分の遺伝子を解析。  
-２、自分の手を石膏みたいなので型とって、手相を3Dで再現する。  
-3、迷信のような手相学と、遺伝子解析結果の相関をみる。寿命、IQ、など
+1,自分の遺伝子を解析。  
+2,自分の手を石膏みたいなので型とって、手相を3Dで再現する。  
+3,迷信のような手相学と、遺伝子解析結果の相関をみる。寿命、IQ、など
 
-# 面白いと思ったプロジェクト、気になった言葉
+## PlanE
+
+リモートから研究設備にアクセスしたい。そうすればより、オープンソース化され、DIYが捗るのでは？
+全部パソコンから操作してあとはロボットにやってほしい(顕微鏡とかPCRとかも)
+そうすれば実験の前にコンピューターでシミュレーションできるし、危険な組み合わせの時とかは実行前にエラー出るし、安全では？
+
+# My curiosity 
 
 ## バイオデザインとは  
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
@@ -45,11 +62,15 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 「弱いがたくさんの変数の関係したカオスによる安定性機構」、エピジェネティクスとも関わっていそうな概念
 
 ## プロトセルとは
-生命と非生命を考えることは、生命とその可能性の理解となる  
-- [Ted]（https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja）
+生命と非生命の境界を考えがえることは、生命とその可能性の理解につながる。  
+- [Ted](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja)
 
-## バイオフィルムとは
-クオラムセンシング、蟻の化学物質を介した集団行動に似てる、一種のバイオセンサー、粘菌の自他の判別も連想した、地震とかバイオセンサーで予見できないか？
+## バイオセンサーとは
+![image](https://user-images.githubusercontent.com/29623255/37213882-b135ee6c-23f6-11e8-8bbe-46a5e540f847.png)
+↓一種のバイオセンサーでは?  
+バイオフィルム(コロニー)からクオラムセンシング(自分と同種の菌の生息密度を感知して、それに応じて物質の産生をコントロールする)　　
+蟻の化学物質を介した集団行動　　
+粘菌の自他の判別　　
 
 ## 合成生物学(Synthetic biology)とは
 ![image](https://user-images.githubusercontent.com/29623255/37194588-495c886c-23b2-11e8-8159-b688b331525a.png)
@@ -96,7 +117,7 @@ Now Humans have the technology to change genes freely.
 I think Technology itself is neither good nor bad.  
 It’s up to us.  
 But we don't think it in indivisual level yet.  
-It's severe probrem.  
+It's a severe probrem.  
 In a few years we have to decide how to use it  in individual or social level. 
 Are you for or against designer babies?  
 We need the place to prepare for our near feature choice.  
@@ -127,6 +148,6 @@ If you are a biologist and want to explore something outside your expertise, you
 
 ![image](https://user-images.githubusercontent.com/29623255/36112275-7ac19b8a-106c-11e8-814d-fb829ab7fb41.png)
 
-So far Only scientists can accuses biotechnology.But now Thorough DIYbio citizen can dive into the world of biotechnology and prepare for our future choise.
+So far Only scientists can accuses biotechnology.But now Thorough DIYbio citizen can dive into the world of biotechnology and can prepare for our near future choise.
 
 
