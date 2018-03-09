@@ -14,7 +14,7 @@ layout: home
 **Mid term presentation** : [PDF](/BHA5_Mid_Term_Presentation_hiroki_PDF.pdf)-[Video](https://youtu.be/3Wg5OagyERs)
 
 ## My Project
-![image](/hiroki/Project image sketch.PNG)  
+![Image of Project](/Project image sketch.PNG)  
 In my project, I'm going to make musical card for musical box using the patterns of holes of warm-eaten  
 I'll control the position of warm-eaten  
 In my plan, I would like to use **紙魚Simi (Bookworm)** which is one of the insect eat paper
