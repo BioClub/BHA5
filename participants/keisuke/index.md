@@ -11,7 +11,7 @@ layout: home
   Using DIY bio techniques, I would build a biomolecular circuit that demonstrates turing model.
 - Midterm Presentation
 
-https://vimeo.com/258476524
+[video](https://vimeo.com/258476524)
 
 - Plan
 
@@ -30,5 +30,4 @@ https://vimeo.com/258476524
 3/31(Sat) 
 
 ## Link
-midterm presentation
-https://vimeo.com/258476524
+[midterm presentation](https://vimeo.com/258476524)
