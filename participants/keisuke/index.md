@@ -47,18 +47,8 @@ layout: home
     3/27(Tue) 
 
     3/31(Sat) 
-
-### Alternative projects
-how to train salamanders
-
-intestinal environment of salamanders
-
-microbiome of salamanders
-
-## Link
-midterm presentation
-
-[https://vimeo.com/258476524](https://vimeo.com/258476524)
+    
+- Link
 
 about Turing model in E.coli
 
@@ -79,4 +69,12 @@ transformation
 [https://openwetware.org/wiki/Transforming_chemically_competent_cells](https://openwetware.org/wiki/Transforming_chemically_competent_cells)
 
 [https://www.addgene.org/protocols/bacterial-transformation/](https://www.addgene.org/protocols/bacterial-transformation/)
+
+
+### Alternative projects
+how to train salamanders
+
+intestinal environment of salamanders
+
+microbiome of salamanders
 
