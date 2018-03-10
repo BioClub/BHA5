@@ -58,9 +58,11 @@ microbiome of salamanders
 ## Link
 midterm presentation
 
-[https://vimeo.com/258476524]
+(https://vimeo.com/258476524)[https://vimeo.com/258476524]
 
 about Turing model in E.coli
+
+(https://blogs.yahoo.co.jp/crazy_tombo/47904461.html)[https://blogs.yahoo.co.jp/crazy_tombo/47904461.html]
 
 [https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-09J09649/]
 
