@@ -23,7 +23,9 @@ aaa | bbb | kkk |
 ## About Project
 ### DIY Synthetic Biology
 - Description
- Using DIY bio techniques, I would build a biomolecular circuit that demonstrates turing model.
+
+Using DIY bio techniques, I would build a biomolecular circuit that demonstrates turing model.
+
 - Midterm Presentation
 https://vimeo.com/258476524
 - Plan
