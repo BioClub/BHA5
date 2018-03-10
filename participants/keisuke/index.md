@@ -75,5 +75,6 @@ layout: home
 
 ### Microbiome of Salamanders
 - Description
-  Collect faces of salamanders(Hynobius nebulosus and Ambystoma opacum) and grow them in medium or genetically analyze them.
+  
+  Collect faces of salamanders(Hynobius nebulosus and Ambystoma opacum) and grow them in medium or genetically analyze them.
 
