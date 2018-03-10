@@ -22,7 +22,8 @@ layout: home
       E.coli
       CaCl2 (100mM) 
       MgCl2 (100mM)
-      ice box filled with ice
+      incubator 37℃
+      ice box filled with ice
       OD meter
       and...
 
