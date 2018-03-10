@@ -51,6 +51,8 @@ layout: home
 - Link
 
   about Turing model in E.coli
+  
+  [https://www.brh.co.jp/seimeishi/journal/011/to_1.html](https://www.brh.co.jp/seimeishi/journal/011/to_1.html)
 
   [https://blogs.yahoo.co.jp/crazy_tombo/47904461.html](https://blogs.yahoo.co.jp/crazy_tombo/47904461.html)
 
