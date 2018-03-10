@@ -22,6 +22,18 @@ Experimenting with Biomaterials
 - kombucha leather
 - mycobricks
 
+2018-03-10 report
+substrates prepared:
+straw (boiled 40min),palm tree husk (boiled 40min), rice hull (boiled 40min),steamed rice, brown rice, brown rice flour, mix of brown rice and brown rice flour, kombucha scoby, coffee grounds
+
+![substrates](./IMG_2806.JPG)
+warm box and 9 substrates inoculated with koji, trying to keep the temperature between 30-60C
+![warm box](./IMG_2813.JPG)
+cold box and 9 substrates inoculated with king oyster mushroom, trying to keep the temperature between 15-20C and hunidity at 95%
+![cold box](./IMG_2817.JPG)
+challenge: incubator / temp-humidity controlled box not ready yet
+
+
 Resources
 Mycelium 
 - Waag Pleurotus Ostreatus http://biohackacademy.github.io/bha5/organisms/mycelium/
