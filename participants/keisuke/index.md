@@ -34,7 +34,7 @@ layout: home
     3/20(Tue) transformation experiment
       
       - competent cells
-      - DNA to transform(plasmid with antibiotic resistance gene)
+      - DNA to transform(plasmid with antibiotic resistance and GFP gene)
       - media including appropriate antibiotic
       - microfuge tubes
       - incubator 37℃
