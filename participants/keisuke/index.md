@@ -35,7 +35,7 @@ layout: home
       incubator 37℃
       media
       microfuge tubes
-      waterbath 42℃
+      waterbath 42℃
       and...
       
     3/24(Sat) 
