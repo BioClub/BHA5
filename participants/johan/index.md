@@ -8,12 +8,12 @@ layout: home
 # Johan
 ## Documentation
 
-Devices Made
+Devices Made so far
 Tube Rack
 Magnetic Stirrer
 
 Devices to make
-incubator
+incubator / temperature humidity controlled grow box
 
 Project
 Experimenting with Biomaterials
@@ -23,6 +23,7 @@ Experimenting with Biomaterials
 - mycobricks
 
 2018-03-10 report
+
 substrates prepared:
 straw (boiled 40min),palm tree husk (boiled 40min), rice hull (boiled 40min),steamed rice, brown rice, brown rice flour, mix of brown rice and brown rice flour, kombucha scoby, coffee grounds
 
