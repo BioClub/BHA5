@@ -50,25 +50,25 @@ layout: home
     
 - Link
 
-about Turing model in E.coli
+  about Turing model in E.coli
 
-[https://blogs.yahoo.co.jp/crazy_tombo/47904461.html](https://blogs.yahoo.co.jp/crazy_tombo/47904461.html)
+  [https://blogs.yahoo.co.jp/crazy_tombo/47904461.html](https://blogs.yahoo.co.jp/crazy_tombo/47904461.html)
 
-[https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-09J09649/](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-09J09649/)
+  [https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-09J09649/](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-09J09649/)
 
-making competent cells
+  making competent cells
 
-[http://mcb.berkeley.edu/labs/krantz/protocols/calcium_comp_cells.pdf](http://mcb.berkeley.edu/labs/krantz/protocols/calcium_comp_cells.pdf)
+  [http://mcb.berkeley.edu/labs/krantz/protocols/calcium_comp_cells.pdf](http://mcb.berkeley.edu/labs/krantz/protocols/calcium_comp_cells.pdf)
 
-[https://openwetware.org/wiki/Preparing_chemically_competent_cells](https://openwetware.org/wiki/Preparing_chemically_competent_cells)
+  [https://openwetware.org/wiki/Preparing_chemically_competent_cells](https://openwetware.org/wiki/Preparing_chemically_competent_cells)
 
-[http://blog.addgene.org/save-time-and-money-by-making-your-own-competent-cells](http://blog.addgene.org/save-time-and-money-by-making-your-own-competent-cells)
+  [http://blog.addgene.org/save-time-and-money-by-making-your-own-competent-cells](http://blog.addgene.org/save-time-and-money-by-making-your-own-competent-cells)
 
-transformation
+  transformation
 
-[https://openwetware.org/wiki/Transforming_chemically_competent_cells](https://openwetware.org/wiki/Transforming_chemically_competent_cells)
+  [https://openwetware.org/wiki/Transforming_chemically_competent_cells](https://openwetware.org/wiki/Transforming_chemically_competent_cells)
 
-[https://www.addgene.org/protocols/bacterial-transformation/](https://www.addgene.org/protocols/bacterial-transformation/)
+  [https://www.addgene.org/protocols/bacterial-transformation/](https://www.addgene.org/protocols/bacterial-transformation/)
 
 
 ### Alternative projects
