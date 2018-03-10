@@ -52,5 +52,6 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 #### the question
 - how can i check what kind of bacterias I have 
 - the procedure of centrifuge
-
+- how can i grow the bacteria on the 3D object
+- the use of DMEM
 
