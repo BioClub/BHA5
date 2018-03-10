@@ -24,14 +24,13 @@ This is Youngah's page!
 midterm presentation 
 -> https://github.com/BioHackAcademy/BioHackAcademy.github.io/wiki/Midterm-Youngah-seong
 
-*research*
+##research
 How to get permition from gorvenment
 -> https://www.nta.go.jp/tetsuzuki/shinsei/annai/sake/annai/23600069.htm
 
 How to make Mackgeoli
 -> https://mmpkorea.wordpress.com/makgeolli-homebrew-resources/
 
-*research*
 The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems
 -> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367209/
 
@@ -41,9 +40,7 @@ Metagenomic Analysis
 Metagenomics
 -> https://en.m.wikipedia.org/wiki/Metagenomics
 
-
-
-*memo*
+##memo
 
 SFC鶴岡にEDNA分析器が結構ある
 -> https://orf.sfc.keio.ac.jp/2017/exhibition/b35/
