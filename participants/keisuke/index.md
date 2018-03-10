@@ -23,7 +23,7 @@ layout: home
       - CaCl2 (100mM) 
       - MgCl2 (100mM)
       - incubator 37℃
-      - ice box filled with ice
+      - icebox filled with ice
       - OD meter
       - freezer
       - and...
@@ -33,11 +33,12 @@ layout: home
     3/20(Tue) transformation experiment
       
       - competent cells
-      - DNA to transform
-      - incubator 37℃
-      - media
+      - DNA to transform(plasmid with antibiotic resistance gene)
+      - media including appropriate antibiotic
       - microfuge tubes
+      - incubator 37℃
       - waterbath 42℃
+      - icebox filled with ice
       - and...
       
     3/24(Sat) 
