@@ -48,6 +48,10 @@ layout: home
 
     3/31(Sat) 
 
+### Alternative projects
+How to train salamanders
+
+
 ## Link
 midterm presentation
 
