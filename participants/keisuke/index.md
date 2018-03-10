@@ -35,7 +35,7 @@ layout: home
       
       - competent cells
       - DNA to transform(plasmid with antibiotic resistance and GFP gene)
-      - media including appropriate antibiotic
+      - media including antibiotic
       - microfuge tubes
       - incubator 37℃
       - waterbath 42℃
