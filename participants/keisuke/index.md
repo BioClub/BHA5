@@ -20,8 +20,8 @@ layout: home
     3/13(Tue) making Calcium competent cells(3days to prepare)
     
       - E.coli
-      - CaCl2 (100mM) 
-      - MgCl2 (100mM)
+      - CaCl2
+      - MgCl2
       - incubator 37℃
       - icebox filled with ice
       - OD meter
@@ -48,4 +48,26 @@ layout: home
     3/31(Sat) 
 
 ## Link
-[midterm presentation](https://vimeo.com/258476524)
+midterm presentation
+
+[https://vimeo.com/258476524]
+
+about Turing model in E.coli
+
+[https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-09J09649/]
+
+making competent cells
+
+[http://mcb.berkeley.edu/labs/krantz/protocols/calcium_comp_cells.pdf]
+
+[https://openwetware.org/wiki/Preparing_chemically_competent_cells]
+
+transformation
+
+[https://openwetware.org/wiki/Transforming_chemically_competent_cells]
+
+[https://www.addgene.org/protocols/bacterial-transformation/]
+
+other
+
+[http://blog.addgene.org/save-time-and-money-by-making-your-own-competent-cells]
