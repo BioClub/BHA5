@@ -35,7 +35,7 @@ https://vimeo.com/258476524
 
 3/13(Tue) transformation experiment in E.coli
 
-(3/17(Sat) Absent)
+(3/17(Sat) absent)
 
 3/20(Tue) 
 
