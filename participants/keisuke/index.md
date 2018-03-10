@@ -17,11 +17,27 @@ layout: home
 
     3/10(Sat) project planning
 
-    3/13(Tue) transformation experiment in E.coli
+    3/13(Tue) making Calcium competent cells(3days to prepare)
+    
+      E.coli
+      CaCl2 (100mM) 
+      MgCl2 (100mM)
+      ice box filled with ice
+      OD meter
+      and...
 
     (3/17(Sat) absent)
 
-    3/20(Tue) 
+    3/20(Tue) transformation experiment
+      
+      competent cells
+      DNA to transform
+      incubator 37℃
+      media
+      microfuge tubes
+      waterbath 42℃
+      and...
+      
 
     3/24(Sat) 
 
