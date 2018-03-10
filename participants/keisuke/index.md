@@ -49,7 +49,8 @@ layout: home
     3/31(Sat) 
 
 ### Alternative projects
-How to train salamanders
+how to train salamanders
+
 intestinal environment of salamanders
 
 
