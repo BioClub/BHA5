@@ -22,6 +22,7 @@ layout: home
       - E.coli
       - CaCl2
       - MgCl2
+      - glycerol
       - incubator 37℃
       - icebox filled with ice
       - OD meter
