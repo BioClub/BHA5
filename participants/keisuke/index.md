@@ -32,7 +32,7 @@ layout: home
       
       competent cells
       DNA to transform
-      incubator 37℃
+      incubator 37℃
       media
       microfuge tubes
       waterbath 42℃
