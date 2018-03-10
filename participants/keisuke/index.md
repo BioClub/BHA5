@@ -5,7 +5,7 @@ layout: home
 # Keisuke Yamada
 
 ## About Project
-### DIY Synthetic Biology
+### DIY Synbio
 - Description
 
   Using DIY bio techniques, I would build a biomolecular circuit that demonstrates turing model.
