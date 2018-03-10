@@ -62,12 +62,11 @@ making competent cells
 
 [https://openwetware.org/wiki/Preparing_chemically_competent_cells]
 
+[http://blog.addgene.org/save-time-and-money-by-making-your-own-competent-cells]
+
 transformation
 
 [https://openwetware.org/wiki/Transforming_chemically_competent_cells]
 
 [https://www.addgene.org/protocols/bacterial-transformation/]
 
-other
-
-[http://blog.addgene.org/save-time-and-money-by-making-your-own-competent-cells]
