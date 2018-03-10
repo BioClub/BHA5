@@ -73,10 +73,31 @@ layout: home
   [https://www.addgene.org/protocols/bacterial-transformation/](https://www.addgene.org/protocols/bacterial-transformation/)
 
 
-### Microbiome of Salamanders
+### Microbiome of Salamanders (Alternative Project 1)
 - Description
   
   Collect faces of salamanders(Hynobius nebulosus and Ambystoma opacum) and grow them in medium or genetically analyze them.
+
+- Plan
+
+    3/10(Sat) project planning
+
+    3/13(Tue)
+
+    (3/17(Sat) absent)
+
+    3/20(Tue)
+      
+    3/24(Sat) 
+
+    3/27(Tue) 
+
+    3/31(Sat) 
+
+### Skin Pattern of Salamanders (Alternative Project 2)
+- Description
+  
+  Take pictures of each salamander everyday and analyze their skin patterns.
 
 - Plan
 
