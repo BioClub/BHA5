@@ -73,10 +73,7 @@ layout: home
   [https://www.addgene.org/protocols/bacterial-transformation/](https://www.addgene.org/protocols/bacterial-transformation/)
 
 
-### Alternative projects
-how to train salamanders
-
-intestinal environment of salamanders
-
-microbiome of salamanders
+### Microbiome of Salamanders
+- Description
+  Collect faces of salamanders(Hynobius nebulosus and Ambystoma opacum) and grow them in medium or genetically analyze them.
 
