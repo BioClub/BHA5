@@ -38,7 +38,6 @@ layout: home
       waterbath 42℃
       and...
       
-
     3/24(Sat) 
 
     3/27(Tue) 
