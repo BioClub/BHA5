@@ -19,25 +19,26 @@ layout: home
 
     3/13(Tue) making Calcium competent cells(3days to prepare)
     
-      E.coli
-      CaCl2 (100mM) 
-      MgCl2 (100mM)
-      incubator 37℃
-      ice box filled with ice
-      OD meter
-      and...
+      - E.coli
+      - CaCl2 (100mM) 
+      - MgCl2 (100mM)
+      - incubator 37℃
+      - ice box filled with ice
+      - OD meter
+      - freezer
+      - and...
 
     (3/17(Sat) absent)
 
     3/20(Tue) transformation experiment
       
-      competent cells
-      DNA to transform
-      incubator 37℃
-      media
-      microfuge tubes
-      waterbath 42℃
-      and...
+      - competent cells
+      - DNA to transform
+      - incubator 37℃
+      - media
+      - microfuge tubes
+      - waterbath 42℃
+      - and...
       
     3/24(Sat) 
 
