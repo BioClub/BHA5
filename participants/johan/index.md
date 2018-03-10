@@ -10,7 +10,16 @@ layout: home
 
 Devices Made so far
 Tube Rack
+
+![tube rack](./IMG_2806.JPG)
+
+![tube rack](./IMG_2730.JPG)
+
 Magnetic Stirrer
+
+![magnetic stirrer](./IMG_2712.JPG)
+
+
 
 Devices to make
 incubator / temperature humidity controlled grow box
