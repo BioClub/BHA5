@@ -43,6 +43,16 @@ cold box and 9 substrates inoculated with king oyster mushroom, trying to keep t
 ![cold box](./IMG_2817.JPG)
 challenge: incubator / temp-humidity controlled box not ready yet
 
+bioplastic with starch, agar, water, vinegar,
+![bioplastic](./IMG_2835.JPG)
+
+bioplastic end result hard but easily snaps to break > next time try to add glycerin
+![bioplastic](./IMG_2839.JPG)
+
+kombucha scoby left with blue mold staining
+kombucha scoby right with palm tree husk fibers
+![kombucha scoby leather](./IMG_2780.JPG)
+
 
 Resources
 Mycelium 
