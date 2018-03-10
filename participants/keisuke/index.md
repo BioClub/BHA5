@@ -23,7 +23,7 @@ layout: home
       - CaCl2 (100mM) 
       - MgCl2 (100mM)
       - incubator 37℃
-      - ice box filled with ice
+      - ice box filled with ice
       - OD meter
       - freezer
       - and...
