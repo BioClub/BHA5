@@ -21,7 +21,7 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 
 |  | Plan A | Plan B |
 |:-----------:|:-----------:|:------------:|
-| title | the world in 0.06mm | what is beatiful and what is dirty? |
+| title | what is beatiful and what is dirty? | the world in 0.06mm |
 | video | [vimeo link](https://vimeo.com/258767241) | [vimeo link](https://vimeo.com/259296278) |
 | final goal |  |  |
 
@@ -29,12 +29,12 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 
 |  | Plan A | Plan B |
 |:-----------:|:-----------:|:------------:|
-| 3/10(Saturday) | make a stirrer & make an agar |  |
-| 3/13(Tuesday) |  |  |
-| 3/17(Saturday) | until here put bacterias | finish making the sperm object & get the centrifuge |
+| 3/10(Saturday) | make a stirrer & an agar plate |  |
+| 3/13(Tuesday) | start growing the bacteria |  |
+| 3/17(Saturday) |  | get the centrifuge |
 | 3/20(Tuesday) | check what kind of bacteria I have |  |
-| 3/24(Saturday) |  | Until here, I will take the video |
-| 3/27(Tuesday) |  | if I could I will finish making the DIY microscope |
+| 3/24(Saturday) |  | finish taking the video & finish making the DIY microscope |
+| 3/27(Tuesday) |  | finish making the sperm object |
 | 3/31(Saturday) | final adjustment | final adjustment |
 | 4/2(Monday) | final presentation | final presentation |
 
@@ -43,12 +43,14 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 - DMEM
 - TENGA MEN's Loupe
 - condomm
+- 3D printer
 
 #### work with
-- the lab in Tukuba university
+- the lab in Tukuba university (if possible)
 
 
-
-
+#### the question
+- how can i check what kind of bacterias I have 
+- the procedure of centrifuge
 
 
