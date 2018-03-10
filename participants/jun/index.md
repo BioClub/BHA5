@@ -29,14 +29,25 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 
 |  | Plan A | Plan B |
 |:-----------:|:-----------:|:------------:|
-| 3/10(Saturday) | make a stirrer |  |
+| 3/10(Saturday) | make a stirrer & make an agar |  |
 | 3/13(Tuesday) |  |  |
-| 3/17(Saturday) |  |  |
-| 3/20(Tuesday) |  |  |
+| 3/17(Saturday) | until here put bacterias | finish making the sperm object & get the centrifuge |
+| 3/20(Tuesday) | check what kind of bacteria I have |  |
 | 3/24(Saturday) |  | Until here, I will take the video |
-| 3/27(Tuesday) |  |  |
-| 3/31(Saturday) |  |  |
-| 4/2(Monday) |  |  |
+| 3/27(Tuesday) |  | if I could I will finish making the DIY microscope |
+| 3/31(Saturday) | final adjustment | final adjustment |
+| 4/2(Monday) | final presentation | final presentation |
+
+#### what I need
+- the centrifuge
+- DMEM
+- TENGA MEN's Loupe
+- condomm
+
+#### work with
+- the lab in Tukuba university
+
+
 
 
 
