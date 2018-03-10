@@ -23,7 +23,7 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 |:-----------:|:-----------:|:------------:|
 | title | what is beatiful and what is dirty? | the world in 0.06mm |
 | video | [vimeo link](https://vimeo.com/258767241) | [vimeo link](https://vimeo.com/259296278) |
-| final goal |  |  |
+| final goal |  | ![test image](image/スクリーンショット 2018-03-10 12.18.14.png) |
 
 #### time schedule
 
