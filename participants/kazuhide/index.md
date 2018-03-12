@@ -22,9 +22,11 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
 
+ダンゴムシも、精子も「交替性転向反応」
+
 ## PlanB  
 
-「働かないアリの粘菌生活」をテーマにして、アリと粘菌をコラボさせれたらなと思っています。アリが粘菌によって持続的に栄養を補給できるような世界を作って、働きアリをいなくさせるみたいなこと.
+「働かないアリの粘菌生活」をテーマにして、アリと粘菌をコラボさせれたらなと思っています。アリが粘菌によって持続的に栄養を補給できるような世界を作って、働きアリをいなくさせるみたいなこと.ハキリアリは自分で菌を栽培しているらしい。
 
 ## PlanC  
 
@@ -43,6 +45,10 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 リモートから研究設備にアクセスしたい。そうすればより、オープンソース化され、DIYが捗るのでは？
 全部パソコンから操作してあとはロボットにやってほしい(顕微鏡とかPCRとかも)
 そうすれば実験の前にコンピューターでシミュレーションできるし、危険な組み合わせの時とかは実行前にエラー出るし、安全では？
+
+## PlanF
+
+マイクロバイオーム嘘発見器!
 
 # My curiosity 
 
@@ -66,10 +72,10 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 - [Ted](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja)
 
 ## バイオセンサーとは
-![image](https://user-images.githubusercontent.com/29623255/37213882-b135ee6c-23f6-11e8-8bbe-46a5e540f847.png)
-↓一種のバイオセンサーでは?  
-バイオフィルム(コロニー)からクオラムセンシング(自分と同種の菌の生息密度を感知して、それに応じて物質の産生をコントロールする)　　
-蟻の化学物質を介した集団行動　　
+![image](https://user-images.githubusercontent.com/29623255/37214941-f26e9f98-23f9-11e8-93be-817bba24d8e4.png)
+
+バイオフィルム(コロニー)からクオラムセンシング(自分と同種の菌の生息密度を感知して、それに応じて物質の産生をコントロールする)  
+蟻の化学物質を介した集団行動　  
 粘菌の自他の判別　　
 
 ## 合成生物学(Synthetic biology)とは
@@ -149,5 +155,3 @@ If you are a biologist and want to explore something outside your expertise, you
 ![image](https://user-images.githubusercontent.com/29623255/36112275-7ac19b8a-106c-11e8-814d-fb829ab7fb41.png)
 
 So far Only scientists can accuses biotechnology.But now Thorough DIYbio citizen can dive into the world of biotechnology and can prepare for our near future choise.
-
-
