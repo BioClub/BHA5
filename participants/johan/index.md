@@ -56,6 +56,8 @@ kombucha scoby left with blue mold staining
 kombucha scoby right with palm tree husk fibers
 ![kombucha scoby leather](./IMG_2780.JPG)
 
+![kombucha scoby leather](./kombuchascobytriptic3b.png)
+
 
 Resources
 Mycelium 
