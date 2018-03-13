@@ -20,8 +20,11 @@ Magnetic Stirrer
 ![magnetic stirrer](./IMG_2712.JPG)
 
 
-
 Devices to make
+
+Clean Bench
+![clean bench](./20180312_CleanBench_v14.png)
+
 incubator / temperature humidity controlled grow box
 
 Project
