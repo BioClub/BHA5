@@ -8,10 +8,10 @@ layout: home
 | 3/13(Tuesday) | ❌ |
 | 3/17(Saturday) | Shojin meat |
 | 3/20(Tuesday) | ❌ |
-| 3/24(Saturday) |  |
+| 3/24(Saturday) | (参加)ここまでにアリを採取、かつ実験内容の吟味終了 |
 | 3/27(Tuesday) | ❌ |
 | 3/31(Saturday) |  |
-| 4/2(Monday) |  |
+| 4/2(Monday) | ビデオ作成 |
 
 # My personal project
 
@@ -22,6 +22,30 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
+
+<疑問>
+- 集団の中で、途中で遺伝子プールを変更したらどのような影響が出るだろうか？
+- 個体レベルでは利他的な、しかしGeneレベルでは結果として利己的な、Geneの集団における振る舞い、決定法についてもっと知りたい。gene目線で、hardの個体としては接続していない、自分(gene)が含まれている他の個体をどう判断しているのか？そこにどういうやり取りがあるのだろうか？
+
+<仮説>
+- 遺伝子プールは一度分断されて、それぞれの遺伝子プールができても、再び結合されると、遺伝子プール間でなんらかのやり取りがあるはずなので、元に戻る。
+
+<検証方法>
+- まずは同じコロニーのアリを、野生から採取する。ここには遺伝子プールが存在している(A)。採取後、コロニーを2分割する(B,C)。その後、コロニーを合体させる(D)。これで、A,B,C,Dの遺伝子プールを比較できる。
+- お世話する利他的な働きアリの数と、単為生殖する利己的な働きアリの比を比較する。
+
+<問題点>
+- アリの生態がよくわかっていない
+- オスをどうやって見分けるか
+- アリに色を塗ったりできるのか
+- 女王アリは捕まえれるのか？
+
+<アリの性質>
+- 大奥みたいなもの。
+- 働きアリの個体レベルの利他的な行為としては、女王アリのために餌を運んだり、兄弟姉妹のお世話をしたりする。
+- 働きアリの個体レベルの利己的な行為としては、単為生殖をするという性質がある。
+- オスは女王アリと交尾をする.
+- 女王アリは子供を産みまくる。
 
 ダンゴムシも「交替性転向反応」  
 精子も？
@@ -85,8 +109,10 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 
 ![image](https://user-images.githubusercontent.com/29623255/37194588-495c886c-23b2-11e8-8159-b688b331525a.png)
 
-## Anonymus
-- [Vegan推進](https://anonymous.org.il/english)
+## Meat
+- [shogin meat](http://animescience.net/?p=3627)
+- [Anonymus](https://anonymous.org.il/english)
+- impossible burgar
 
 ## Biofabrication
 - [biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
@@ -100,11 +126,12 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 ## Bioenergy
 - [バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。それで電子取り出して、コンデンサーみたいなのにためて、電池作る。
 
-## Meme(software)+Gene(hardware)
+## Meme
 - [meme](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%A0)
 - [利己的遺伝論](https://ja.wikipedia.org/wiki/%E5%88%A9%E5%B7%B1%E7%9A%84%E9%81%BA%E4%BC%9D%E5%AD%90)
 - 個体レベルでは利他的な、しかしGeneレベルでは結果として利己的な、Geneの集団における振る舞い、決定法についてもっと知りたい。hardとしては接続していない、自分が含まれている他をどう判断しているのか？そこにどういうやり取りがあるのだろうか？
 - 集団の中で、途中で遺伝子プールを変更したらどのような影響が出るだろうか？
+- 自分は遺伝子によって作られたけれども、進化の過程で生まれた自分を規定できる「意識」という枠組みの中では、遺伝子からは少し独立しているように思う。言いなりではない。意識としての自分の幸せを追求したい。
 
 # Books
 - CRISPR 究極の遺伝子編集技術の発見
