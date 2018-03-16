@@ -5,7 +5,7 @@ layout: home
 |  | Plan |
 |:-----------:|:-----------:|
 | 3/10(Saturday) | ❌ |
-| 3/13(Tuesday) |  |
+| 3/13(Tuesday) | ❌ |
 | 3/17(Saturday) | Shojin meat |
 | 3/20(Tuesday) | ❌ |
 | 3/24(Saturday) |  |
@@ -14,6 +14,7 @@ layout: home
 | 4/2(Monday) |  |
 
 # My personal project
+
 ## PlanA 　
 I want to compare how slime mold and ants will solve the same maze.  
 Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime molds.  
@@ -22,7 +23,8 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
 
-ダンゴムシも、精子も「交替性転向反応」
+ダンゴムシも「交替性転向反応」  
+精子も？
 
 ## PlanB  
 
@@ -52,49 +54,72 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 # My curiosity 
 
-## バイオデザインとは  
+## Biodesign 
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
 
-## バイオアートとは
+## Bioart
 アートは生命の未来を更新するのか？バイオへの入り口になるかもしれない。未来の可能性の翻訳。
 
-## マイクロバイオームとは
+## Microbiorm
 生体をハッキングするためには、どうやら微生物のことを考えなければならないみたい。脳をリバースエンジニアリングする発想だけでは足らない？
 
-## エピジェネティクスとは
+## Epigenetics
 DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は環境因子で変わる。リプログラミングはエピジェネティックな標識を初期化すること。
 
-## ホメオカオスとは
+## Homeochaos
 「弱いがたくさんの変数の関係したカオスによる安定性機構」、エピジェネティクスとも関わっていそうな概念
 
-## プロトセルとは
+## Protocel
 生命と非生命の境界を考えがえることは、生命とその可能性の理解につながる。  
 - [Ted](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja)
 
-## バイオセンサーとは
+## Biosensor
+
 ![image](https://user-images.githubusercontent.com/29623255/37214941-f26e9f98-23f9-11e8-93be-817bba24d8e4.png)
 
-バイオフィルム(コロニー)からクオラムセンシング(自分と同種の菌の生息密度を感知して、それに応じて物質の産生をコントロールする)  
-蟻の化学物質を介した集団行動　  
-粘菌の自他の判別　　
+- バイオフィルム(コロニー)からクオラムセンシング(自分と同種の菌の生息密度を感知して、それに応じて物質の産生をコントロールする)  
+- 蟻の化学物質を介した集団行動　  
+- 粘菌の自他の判別　　
 
-## 合成生物学(Synthetic biology)とは
+## Synthetic biology
+
 ![image](https://user-images.githubusercontent.com/29623255/37194588-495c886c-23b2-11e8-8159-b688b331525a.png)
 
 ## Anonymus
 - [Vegan推進](https://anonymous.org.il/english)
 
-## バイオファブリケーション
+## Biofabrication
 - [biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
 - [SILK PAVILION](http://matter.media.mit.edu/environments/details/silk-pavillion) カイコを生体3Dプリンターとして使用,蜘蛛とかでもできるらしい  
 - [幽霊細胞](http://www.instructables.com/id/Ghost-Heart-in-a-Jar/) 豚の心臓から幽霊組織を作って、そこに人の細胞を注入→すでに形あるもの使うのは賢い、[りんご耳](http://tocana.jp/2016/06/post_10094_entry.html)、[ゴッホの耳](http://fundo.jp/47249)  
 - [菌糸体キノコ](http://makezine.jp/blog/2016/10/biodesign-and-biomaterials.html) ダンボールと菌糸体で家具作成→建築を「育てる」とか知らなかった
 
-## セルフメディケーション
+## Self-medication
 - [Nightscout](http://www.nightscout.info/)　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
 
-## 発電できる？
+## Bioenergy
 - [バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。それで電子取り出して、コンデンサーみたいなのにためて、電池作る。
+
+## Meme(software)+Gene(hardware)
+- [meme](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%A0)
+- [利己的遺伝論](https://ja.wikipedia.org/wiki/%E5%88%A9%E5%B7%B1%E7%9A%84%E9%81%BA%E4%BC%9D%E5%AD%90)
+- 個体レベルでは利他的な、しかしGeneレベルでは結果として利己的な、Geneの集団における振る舞い、決定法についてもっと知りたい。hardとしては接続していない、自分が含まれている他をどう判断しているのか？そこにどういうやり取りがあるのだろうか？
+- 集団の中で、途中で遺伝子プールを変更したらどのような影響が出るだろうか？
+
+# Books
+- CRISPR 究極の遺伝子編集技術の発見
+- バイオパンク(DIY科学者たちのバイオハック!)
+- バイオアート(美術手帖)
+-　　粘菌　知性の始まりとそのサイエンス
+- 世界は変形菌でいっぱいだ
+-　　マイクロバイオームの世界
+- 土と内臓(未)
+- 利己的な遺伝子(未)
+-　　サピエンス全史(未)
+
+# Places
+- 日本科学未来館(一般展示)
+-　　国立科学博物館(南方熊楠、地衣類、人体の不思議展(未))
 
 # My definition of DIYbio
 
