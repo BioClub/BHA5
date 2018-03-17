@@ -23,7 +23,7 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 |:-----------:|:-----------:|:------------:|
 | title | what is beatiful and what is dirty? | the world in 0.06mm |
 | video | [vimeo link](https://vimeo.com/258767241) | [vimeo link](https://vimeo.com/259296278) |
-| final goal |  | ![test image](image/planB_image.png) |
+| final goal |  | ![test image](image/FinalProjectImage.jpg) |
 
 #### time schedule
 
@@ -49,8 +49,8 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 - the lab in Tukuba university (if possible) to use DIC(Differential Interface Contrast) microscopy. DIC microscopy creates the high resolution image for the thin optical section
 
 ### what is DIC(Differential Interface Contrast) microscopy?
-- (from Wikipedia) DIC is a optical microscopy technique used to enhance the contrast in unstained, transparent samples.
-- 
+- (from Wikipedia) DIC is a optical microscopy technique used to enhance the contrast in unstained, transparent samples.<br>
+![Test Image](image/DICmicroscope.jpg)
 
 
 #### about the sperm 
