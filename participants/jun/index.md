@@ -46,12 +46,15 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 - 3D printer
 
 #### work with
-- the lab in Tukuba university (if possible)
+- the lab in Tukuba university (if possible) to use DIC(Differential Interface Contrast) microscopy. DIC microscopy creates the high resolution image for the thin optical section
+
+### what is DIC(Differential Interface Contrast) microscopy?
+- (from Wikipedia) DIC is a optical microscopy technique used to enhance the contrast in unstained, transparent samples.
+- 
 
 
-#### the question
-- how can i check what kind of bacterias I have 
-- the procedure of centrifuge
-- how can i grow the bacteria on the 3D object
-- the use of DMEM
+#### about the sperm 
+- how long can sperm live outside?
+  - if you are following the procedure of 
+
 
