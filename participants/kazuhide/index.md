@@ -12,12 +12,22 @@ layout: home
 | 3/13(Tuesday) | ❌ |
 | 3/17(Saturday) | Shojin meat |
 | 3/20(Tuesday) | ❌ |
-| 3/24(Saturday) | (参加)ここまでにアリを飼育開始、かつ実験内容の吟味終了 |
+| 3/24(Saturday) | (参加)(ここまでにfinalビデオ一通り作成) |
 | 3/27(Tuesday) | ❌ |
-| 3/31(Saturday) |  |
-| 4/2(Monday) | ビデオ作成 |
+| 3/31(Saturday) | ビデオ作成修正 |
+| 4/2(Monday) | 発表 |
 
 # My personal project
+
+## Plan_Final
+I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many times, so I decided to change my plan.I find a good course about Bioinfomatics. 
+
+[Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
+[4273π](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-243)
+[Rosalind](http://rosalind.info/problems/locations/)
+[SIB](https://www.sib.swiss/training/e-learning)
+[Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
+[Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
 
 ## PlanA 　
 I want to compare how slime mold and ants will solve the same maze.  
@@ -27,7 +37,7 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
 
-ダンゴムシも「交替性転向反応」  
+ダンゴムシも「交替性転向反応」  
 精子も方向性がある
 
 ## PlanB  
@@ -48,6 +58,8 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 ## PlanE
 
+[Ginkgo bioworks](https://www.ginkgobioworks.com/)
+
 リモートから研究設備にアクセスしたい。そうすればより、オープンソース化され、DIYが捗るのでは？
 全部パソコンから操作してあとはロボットにやってほしい(顕微鏡とかPCRとかも)
 そうすれば実験の前にコンピューターでシミュレーションできるし、危険な組み合わせの時とかは実行前にエラー出るし、安全では？
@@ -66,13 +78,13 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 - 遺伝子プールは一度分断されて、それぞれの遺伝子プールができても、再び結合されると、遺伝子プール間でなんらかのやり取りがあるはずなので、元に戻る。
 
 ### 検証方法
-- まずは一匹の女王アリから蟻のコロニーを作る。これを二つ分。ここには遺伝子プールが存在している(A)。コロニー成長後、卵ができたら、女王アリを取り除く。その後３分割してしばらく放置(B,C,D)。B,C,Dではそれぞれ女王蟻が生まれるはずである、また、違うコロニーEを採取する。その後、コロニーを合体させる(BとC)(DとE)。これで、元同じコロニーの蟻を見極められるか、元違うコロニーの蟻を見極めれるか確かめる。
+- まずは一匹の女王アリから蟻のコロニーを作る。ここには遺伝子プールが存在している(A)。コロニー成長後、卵ができたら、女王アリを取り除く。その後３分割してしばらく放置(B,C,D)。B,C,Dではそれぞれ女王蟻が生まれるはずである、また、違うコロニーを野生から採取する(E)。その後、コロニーを合体させる(BとC)(DとE)。これで、元同じコロニーの蟻を見極められるか、元違うコロニーの蟻を見極めれるか確かめる。
 - 働きアリが、女王アリや卵をお世話するのかで確かめる
 - 働きアリ同士が、喧嘩しないのかで確かめる
 
 ### 問題点
-- アリの生態がよくわかっていない
-- どの蟻の種類にするか、どう捕まえるか->購入するなら[サイト](http://antroom.cart.fc2.com/)、捕まえる時間がない
+- ファイナルプレゼンに間に合わない
+- どの蟻の種類にするか、どう捕まえるか->購入するなら[サイト](http://antroom.cart.fc2.com/)
 - オスメスや働きアリををどうやって見分けるか->オスと女王アリは羽根がある。
 - アリに色を塗ったりできるのか、区別できるのか
 - 女王アリは捕まえれるのか？それとも勝手にメス蟻の中の誰かがなるのか？->受精卵の中から、選ばれし一つが女王アリ(生殖アリ)になる。その他の受精卵は働きアリ(メス)、未受精卵はオスアリ(生殖アリ)になる
@@ -84,6 +96,8 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 - [真社会性昆虫の血縁度](https://gene.s-se.info/relatedness)
 
 # My curiosity 
+
+## Bioinfomatics
 
 ## Biodesign 
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
@@ -120,7 +134,7 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 ## Meat
 - [Shogin meat](http://animescience.net/?p=3627)
 - [Anonymus](https://anonymous.org.il/english)
-- Impossible burgar
+- Impossible burgar(https://www.impossiblefoods.com/burger/)
 
 ## Biofabrication
 - [biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
@@ -141,7 +155,7 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 
 ## Transposon
 
-## Genomeinprinting
+## Genomic imprinting
 
 # Books
 - CRISPR 究極の遺伝子編集技術の発見
