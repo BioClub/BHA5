@@ -12,22 +12,38 @@ layout: home
 | 3/13(Tuesday) | ❌ |
 | 3/17(Saturday) | Shojin meat |
 | 3/20(Tuesday) | ❌ |
-| 3/24(Saturday) | (参加)(ここまでにfinalビデオ一通り作成) |
+| 3/24(Saturday) | (参加)(ここまでにudemyとwagsocietyのbioinfomaticsを3分videoにまとめる) |
 | 3/27(Tuesday) | ❌ |
-| 3/31(Saturday) | ビデオ作成修正 |
+| 3/31(Saturday) | bioinfomaticsを用いて、何か実践 |
 | 4/2(Monday) | 発表 |
 
 # My personal project
 
-## Plan_Final
-I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many times, so I decided to change my plan.I find a good course about Bioinfomatics. 
+## What is bioinfomatics?What can we do by using it?
+I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many hours, so I decided to change my plan.I find a good course about Bioinfomatics. I want to figure out what is bioinfomatics and make a presentation about my definition of bioinfomatics.And I gonna actually make some works.By doing so,I think I can output my knowledge.It is very good.
 
-[Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
-[4273π](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-243)
-[Rosalind](http://rosalind.info/problems/locations/)
-[SIB](https://www.sib.swiss/training/e-learning)
-[Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
-[Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
+- [Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
+- [4273π](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-243)
+- [Rosalind](http://rosalind.info/problems/locations/)
+- [SIB](https://www.sib.swiss/training/e-learning)
+- [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
+- [Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
+
+### Database
+
+- primary(Genbank) VS derivative(RefSeq)
+- nucleotide sequence database(Genpank) vs protein detabase(Uniport(UniProt,UniParc,UniRef))
+
+### Sequence alignment
+
+- 不一致部分は点変異、ギャップ部分はインデルと考える
+- グローバル(全部) VS ローカル(一部)
+- similarity(遺伝子相同の尤度を測る) VS identity(何文字一致してるかを測る)
+- assign penalties(match,gap,unmatch)
+- scoring matrix(Dynamic programming algorithm)
+- clustalX
+
+### 
 
 ## PlanA 　
 I want to compare how slime mold and ants will solve the same maze.  
@@ -96,6 +112,7 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 - [真社会性昆虫の血縁度](https://gene.s-se.info/relatedness)
 
 # My curiosity 
+.orgで探すと記事見つかりやすい?
 
 ## Bioinfomatics
 
@@ -115,7 +132,7 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 「弱いがたくさんの変数の関係したカオスによる安定性機構」、エピジェネティクスとも関わっていそうな概念
 
 ## Protocel
-生命と非生命の境界を考えがえることは、生命とその可能性の理解につながる。  
+生命と非生命の境界を考えることは、生命とその可能性の理解につながる。  
 - [Ted](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja)
 
 ## Biosensor
@@ -134,7 +151,7 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 ## Meat
 - [Shogin meat](http://animescience.net/?p=3627)
 - [Anonymus](https://anonymous.org.il/english)
-- Impossible burgar(https://www.impossiblefoods.com/burger/)
+- [Impossible burgar](https://www.impossiblefoods.com/burger/)
 
 ## Biofabrication
 - [biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
@@ -158,19 +175,20 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 ## Genomic imprinting
 
 # Books
-- CRISPR 究極の遺伝子編集技術の発見
+- [CRISPR 究極の遺伝子編集技術の発見](https://docs.google.com/document/d/1puVqG1SP4hjdUfKimjWWJLCNocVw3GbG-0Wp_Lc8R1c/edit)
 - バイオパンク(DIY科学者たちのバイオハック!)
 - バイオアート(美術手帖)
-- 粘菌　知性の始まりとそのサイエンス
-- 世界は変形菌でいっぱいだ
+- 粘菌　知性の始まりとそのサイエンス->粘菌コンピューター(光嫌がる)
+- 世界は変形菌でいっぱいだ->粘菌にも自他の区別あり
 - マイクロバイオームの世界
 - 土と内臓(未)
 - 利己的な遺伝子(未)
 - サピエンス全史(未)
 
 # Places
-- 日本科学未来館(一般展示)
-- 国立科学博物館(南方熊楠、地衣類、人体の不思議展)
+- 日本科学未来館(一般展示)->ラボオンチップ,ステルスケア
+- 国立科学博物館(南方熊楠,地衣類)
+- 国立科学博物館(人体の不思議展)->閃いた時とぼーっとしてる時の脳波が同じ?,レトロトランスポゾン,ゲノムインプリンティング,走査型電子顕微鏡,発生学と合成生物学
 
 # My definition of DIYbio
 
