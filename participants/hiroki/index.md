@@ -55,5 +55,5 @@ In my plan, I would like to use **紙魚Simi (Bookworm)** which is one of the in
  - Crate Punching Card & Playing
  - Make Promotion Video (optional)  
  
-## 4/2 MON
-  <font color = "Red">**Final Presentation**</font>
+## 4/3 TUE
+  <font color = "Red">**Final Presentation**</font>
