@@ -13,7 +13,7 @@ Network Interactive Matter Lab, Keio University.
 - [Yumi Nishihara](yumi/) (UINIMLKU)
 
 #### Students
-- [Jun Nishimura](jun/), [Final](jun/#final)
+- [Jun Nishimura](jun/)
 - [Hiroki Kaimoto](hiroki/)
 - [Kazuhide Hane](kazuhide/)
 - [Yohei Inokuchi](yohei/)
