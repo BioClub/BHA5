@@ -26,3 +26,5 @@ How to include an image?
 ![Test Image](images/test.png)
 
 `Image URLs can be relative!`
+
+<a name="final">Final Presentation</a>
