@@ -6,46 +6,43 @@ layout: home
 # My schedule
 
 
-|  | Plan |
+| Date | Plan |
 |:-----------:|:-----------:|
+| 1/30(Tuesday) | What is DIY bio? |
+| 2/3(Saturday) | Lab tour |
+| 2/6(Tuesday) | What is life? |
+| 2/10(Saturday) | Making a original tube luck |
+| 2/13(Tuesday) | ❌ |
+| 2/17(Saturday) | In San Francisco(Presentation about DIYbio community) |
+| 2/20(Tuesday) | In San Francisco(presentation about DIYbio community) |
+| 2/24(Saturday) | In San Francisco(presentation about DIYbio community) |
+| 2/27(Tuesday) | ❌ |
+| 3/3(Saturday) | Making a incubator(Audiruno) |
+| 3/6(Tuesday) | Midterm Presentation(How to solve the same maze?) |
 | 3/10(Saturday) | ❌ |
 | 3/13(Tuesday) | ❌ |
-| 3/17(Saturday) | Shojin meat |
+| 3/17(Saturday) | Shojin meat work shop |
 | 3/20(Tuesday) | ❌ |
-| 3/24(Saturday) | (参加)(ここまでにudemyとwagsocietyのbioinfomaticsを3分videoにまとめる) |
+| 3/24(Saturday) | DNA extraction(Mystery meat) |
 | 3/27(Tuesday) | ❌ |
-| 3/31(Saturday) | bioinfomaticsを用いて、何か実践 |
-| 4/2(Monday) | 発表 |
+| 3/31(Saturday) | Crisper experiment? |
+| 4/3(Tuesday) | Final Presentation |
 
-# My personal project
+# My personal project(Final Presentation)
 
-## What is bioinfomatics?What can we do by using it?
+## What is bioinfomatics? What can we do by using it?
 I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many hours, so I decided to change my plan.I find a good course about Bioinfomatics. I want to figure out what is bioinfomatics and make a presentation about my definition of bioinfomatics.And I gonna actually make some works.By doing so,I think I can output my knowledge.It is very good.
 
+- [Bioinfomatics](https://en.wikipedia.org/wiki/Bioinformatics)
+- [edx](https://courses.edx.org/courses/course-v1:MITx+20.305x_2+1T2017/course/)
 - [Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
-- [4273π](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-243)
 - [Rosalind](http://rosalind.info/problems/locations/)
+- [4273π](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-243)
 - [SIB](https://www.sib.swiss/training/e-learning)
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
 - [Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
 
-### Database
-
-- primary(Genbank) VS derivative(RefSeq)
-- nucleotide sequence database(Genpank) vs protein detabase(Uniport(UniProt,UniParc,UniRef))
-
-### Sequence alignment
-
-- 不一致部分は点変異、ギャップ部分はインデルと考える
-- グローバル(全部) VS ローカル(一部)
-- similarity(遺伝子相同の尤度を測る) VS identity(何文字一致してるかを測る)
-- assign penalties(match,gap,unmatch)
-- scoring matrix(Dynamic programming algorithm)
-- clustalX
-
-### 
-
-## PlanA 　
+## PlanA(Midterm Presentation) 　
 I want to compare how slime mold and ants will solve the same maze.  
 Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime molds.  
 I found the article that slime mold can select the shortest route of a maze. Ants also can do that.  
@@ -66,10 +63,10 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 ## PlanD
 
-手相と遺伝子とマイクロバイオームの関係を探りたい。
+手相と遺伝子とマイクロバイオームの関係を探りたい。  
 
-1,自分の遺伝子を解析。  
-2,自分の手を石膏みたいなので型とって、手相を3Dで再現する。  
+1,自分の遺伝子を解析  
+2,自分の手をスキャンして,3Dプリント  
 3,迷信のような手相学と、遺伝子解析結果の相関をみる。寿命、IQ、など
 
 ## PlanE
@@ -86,26 +83,26 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 ## PlanG
 
-### 疑問
+### Question
 - 途中で遺伝子プールを変更したらどのような影響が出るだろうか？
-- 個体レベルでは利他的な、しかしGeneレベルでは結果として利己的な、アリの集団における振る舞い、決定法についてもっと知りたい。自分の遺伝子が含まれている他の個体をアリは、どう判断しているのか？アリの判断能力はどこに由来するのか？脳？そこにどういうやり取りがあるのだろうか？
+- 個体レベルでは利他的な、しかしGeneレベルでは結果として利己的な、アリの集団における振る舞い、決定法についてもっと知りたい。自分の遺伝子が含まれている他の個体をアリは、どう判断しているのか？アリの判断能力はどこに由来するのか？脳？そこにどういうやり取りがあるのだろうか？利己的な遺伝子の観点からすると、一回分けられると、集団それぞれの自我(利己心)が生じるはず。どういうメリットで、お互い再びくっつきたいと思うのか？観察の中で、自然選択がみられるのでは？
 
-### 仮説
+### Hypothesis
 - 遺伝子プールは一度分断されて、それぞれの遺伝子プールができても、再び結合されると、遺伝子プール間でなんらかのやり取りがあるはずなので、元に戻る。
 
-### 検証方法
+### Verification
 - まずは一匹の女王アリから蟻のコロニーを作る。ここには遺伝子プールが存在している(A)。コロニー成長後、卵ができたら、女王アリを取り除く。その後３分割してしばらく放置(B,C,D)。B,C,Dではそれぞれ女王蟻が生まれるはずである、また、違うコロニーを野生から採取する(E)。その後、コロニーを合体させる(BとC)(DとE)。これで、元同じコロニーの蟻を見極められるか、元違うコロニーの蟻を見極めれるか確かめる。
 - 働きアリが、女王アリや卵をお世話するのかで確かめる
 - 働きアリ同士が、喧嘩しないのかで確かめる
 
-### 問題点
+### Problem
 - ファイナルプレゼンに間に合わない
 - どの蟻の種類にするか、どう捕まえるか->購入するなら[サイト](http://antroom.cart.fc2.com/)
 - オスメスや働きアリををどうやって見分けるか->オスと女王アリは羽根がある。
 - アリに色を塗ったりできるのか、区別できるのか
 - 女王アリは捕まえれるのか？それとも勝手にメス蟻の中の誰かがなるのか？->受精卵の中から、選ばれし一つが女王アリ(生殖アリ)になる。その他の受精卵は働きアリ(メス)、未受精卵はオスアリ(生殖アリ)になる
 
-### アリの性質
+### References
 - [蟻](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA)
 - [蟻の飼育](http://arinko-spot.com/hpgen/HPB/categories/2594.html)
 - [蟻の行動と化学物質](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/43/12/43_12_817/_pdf)
@@ -115,6 +112,7 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 .orgで探すと記事見つかりやすい?
 
 ## Bioinfomatics
+analgtic->synthetic
 
 ## Biodesign 
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
