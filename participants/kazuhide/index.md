@@ -28,13 +28,13 @@ layout: home
 | 3/31(Saturday) | Crisper experiment? |
 | 4/3(Tuesday) | Final Presentation |
 
-# My personal project(Final Presentation)
+# My personal project
 
-## What is bioinfomatics? What can we do by using it?
+## What is bioinfomatics? What can we do by using it?(Final Presentation)
+
 I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many hours, so I decided to change my plan.I find a good course about Bioinfomatics. I want to figure out what is bioinfomatics and make a presentation about my definition of bioinfomatics.And I gonna actually make some works.By doing so,I think I can output my knowledge.It is very good.
 
 - [Bioinfomatics](https://en.wikipedia.org/wiki/Bioinformatics)
-- [edx](https://courses.edx.org/courses/course-v1:MITx+20.305x_2+1T2017/course/)
 - [Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
 - [Rosalind](http://rosalind.info/problems/locations/)
 - [4273π](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-243)
@@ -112,7 +112,7 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 .orgで探すと記事見つかりやすい?
 
 ## Bioinfomatics
-analgtic->synthetic
+Analytics->Synthetic
 
 ## Biodesign 
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
@@ -141,8 +141,9 @@ DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は�
 - 蟻の化学物質を介した集団行動　  
 - 粘菌の自他の判別　　
 
-## Synthetic biology
+## Synthetic biology(Synbio)
 - [iGem](http://igem.org/Main_Page)
+- [edx](https://courses.edx.org/courses/course-v1:MITx+20.305x_2+1T2017/course/)
 
 ![image](https://user-images.githubusercontent.com/29623255/37194588-495c886c-23b2-11e8-8159-b688b331525a.png)
 
