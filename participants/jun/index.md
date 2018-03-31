@@ -14,6 +14,10 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 ![Test Image](image/IMG_0005.JPG)
 
 ### Final Presentation
+
+#### the title 
+never die
+
 #### the project overview
 
 |  | Plan A | Plan B |
@@ -21,6 +25,11 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 | title | what is beatiful and what is dirty? | the world in 0.06mm |
 | video | [vimeo link](https://vimeo.com/258767241) | [vimeo link](https://vimeo.com/259296278) |
 | final goal |  | ![test image](image/FinalProjectImage.jpg) |
+
+#### the short description of the project
+- I have been thinking what the death is and when the death comes. I think that the death in terms of the biological definition is not the true meaning of the death. 生命は場所や時代を超えて、相互的に影響を及ぼし合っている。ゴミとして扱い、その相互関係から除外することこそ、死なのかもしれない。生命の誕生に欠かすことのできない精子だが、使用済みの精子はしばしば不必要なゴミとして扱われることに疑問をもち、精子を使った作品を作りたい思った。自己を犠牲にすることで周りを明るくし、暖かさを作りだすキャンドルの姿に、
+
+
 
 #### time schedule
 
@@ -42,16 +51,11 @@ I'm originally interested in art, specifically erotic art. I was thinking that t
 - condomm
 - 3D printer
 
-#### work with
-- the lab in Tukuba university (if possible) to use DIC(Differential Interface Contrast) microscopy. DIC microscopy creates the high resolution image for the thin optical section
-
-### what is DIC(Differential Interface Contrast) microscopy?
-- (from Wikipedia) DIC is a optical microscopy technique used to enhance the contrast in unstained, transparent samples.<br>
-![Test Image](image/DICmicroscope.jpg)
-
-
 #### about the sperm 
 - how long can sperm live outside?
   - if you are following the procedure of 
+
+
+
 
 
