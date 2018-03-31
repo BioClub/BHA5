@@ -20,14 +20,19 @@ never die
 
 #### the project overview
 
-|  | Plan A | Plan B |
-|:-----------:|:-----------:|:------------:|
-| title | what is beatiful and what is dirty? | the world in 0.06mm |
-| video | [vimeo link](https://vimeo.com/258767241) | [vimeo link](https://vimeo.com/259296278) |
-| final goal |  | ![test image](image/FinalProjectImage.jpg) |
+|  | Plan A | Plan B | Plan C |
+|:-----------:|:-----------:|:------------:|:------------:|
+| title | what is beatiful and what is dirty? | the world in 0.06mm | never die |
+| video | [vimeo link](https://vimeo.com/258767241) | [vimeo link](https://vimeo.com/259296278) |  |
+| final goal |  | ![test image](image/FinalProjectImage.jpg) |  |
 
 #### the short description of the project
-- I have been thinking what the death is and when the death comes. I think that the death in terms of the biological definition is not the true meaning of the death. 生命は場所や時代を超えて、相互的に影響を及ぼし合っている。ゴミとして扱い、その相互関係から除外することこそ、死なのかもしれない。生命の誕生に欠かすことのできない精子だが、使用済みの精子はしばしば不必要なゴミとして扱われることに疑問をもち、精子を使った作品を作りたい思った。自己を犠牲にすることで周りを明るくし、暖かさを作りだすキャンドルの姿に、
+- I have been thinking what the death is and when the death comes. I think that the death in terms of the biological definition is not the true meaning of the death. we, living things, can live based on the system of the food chain.　we, living things, can live under the sacrifice of the other animals. I think those sacrifices are not death. when I think about the death which i defined, the death happen if the thing is removed from that relationship, which is to say, treating as garbage.
+i had a doubt against the way to treat the sperm. after people have sex, except for the case of trying to have a baby, those sperms are treated as the garbage and thrown away to the trush bin. thus I thought I wanted to make an work with sperm.
+I got an inspiration from the melting way of candles which sacrifice themselves to brightn and make warm. By making a candle mixing the sperm, I express that we are living on something sacrificed. by looking at the melting process of that candle, we might get the differenct views toward the death.
+
+title : never die
+short description : I make a candle mixing with sperm to express the infinity of the life. I wanted to give others the chance to think about the death from the different view. 
 
 
 
@@ -42,18 +47,13 @@ never die
 | 3/24(Saturday) |  | finish taking the video & finish making the DIY microscope |
 | 3/27(Tuesday) |  | finish making the sperm object |
 | 3/31(Saturday) | final adjustment | final adjustment |
-| 4/2(Monday) | final presentation | final presentation |
+| 4/3(Tuesday) | final presentation | final presentation |
 
 #### what I need
-- the centrifuge
-- DMEM
 - TENGA MEN's Loupe
+- candle
 - condomm
-- 3D printer
 
-#### about the sperm 
-- how long can sperm live outside?
-  - if you are following the procedure of 
 
 
 
