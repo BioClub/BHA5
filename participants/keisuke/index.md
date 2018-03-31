@@ -6,12 +6,13 @@ layout: home
 
 ## About Project
 ### Personality of Slime Molds
-- Description
+#### Description
+
   As we, humans, are quite different with each other’s, slime molds are also different among media. I tried to investigate if slime molds have individual personalities.
 
-- Wet Experiment
+#### Wet Experiment
 
-- Dry Simulation
+#### Dry Simulation
 
 ### DIY Synbio
 - Description
