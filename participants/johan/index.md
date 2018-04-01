@@ -46,17 +46,10 @@ cold box and 9 substrates inoculated with king oyster mushroom, trying to keep t
 <img src="./IMG_2817.JPG" width="100">
 challenge: incubator / temp-humidity controlled box not ready yet
 
-bioplastic with starch, agar, water, vinegar,
-![bioplastic](./IMG_2835.JPG| width=100)
 
-bioplastic end result hard but easily snaps to break > next time try to add glycerin
-![bioplastic](./IMG_2839.JPG | width=100)
 
-kombucha scoby left with blue mold staining
-kombucha scoby right with palm tree husk fibers
-<img src="./IMG_2780.JPG" width="100">
-
-<img src="./kombuchascobytriptic3b.png" width="100">
+kombucha scoby left with blue mold staining and  palm tree husk fibers
+<img src="./kombuchascobytriptic3b.png" width="200">
 
 
 Resources
@@ -98,7 +91,7 @@ eringi from substrate kit
 hiratake from old dongels
 
 ## Saturday March 17th, 2018/ Kannai UINIMLKU
-![image](./IMG_3141.JPG | width=100)
+<img src="./IMG_3141.JPG" width="200">
 potato agar diy, boil potatoes, use boiled potato water and add additional water until 1L, 20g sugar, 20g agar
 
 inoculated plates with 
@@ -110,7 +103,7 @@ sarunokoshikake white  from park sample
 sarunokoshikake dark  from park sample
 
 ## Monday March 19th, 2018
-![image](./IMG_3077.JPG | width=100)
+<img src="./IMG_3077.JPG" width="200">
 liquid mycelium in honey water
 white button mushroom from spore printing > spores used
 hiratake mushroom from spore printing > no visible spores, so part of mushroom sample used
@@ -121,7 +114,7 @@ shiitake mushroom from spore printing > no visible spores, so part of mushroom s
 
 
 ## Tuesday March 20th, 2018/ BioClub Shibuya - Liquid Mycelium
-![image](./IMG_3341.JPG | width=100)
+<img src="./IMG_3341.JPG" width="200">
 autoclaving of honey water for liquid mycelium
 maitake from shop sample
 brown button mushroom from shop sample
