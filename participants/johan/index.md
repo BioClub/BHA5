@@ -11,13 +11,13 @@ layout: home
 Devices Made so far
 Tube Rack
 
-![tube rack](./IMG_2734.JPG?s=100)
+<img src="./IMG_2734.JPG" width="100">
 
-![tube rack](./IMG_2730.JPG | width=100)
+<img src="./IMG_2730.JPG" width="100">
 
 Magnetic Stirrer
 
-![magnetic stirrer](./IMG_2712.JPG | width=100)
+<img src="./IMG_2712.JPG" width="100">
 
 
 Devices to make
