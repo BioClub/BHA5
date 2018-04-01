@@ -70,6 +70,9 @@ substrates prepared:
 <br /><strong>kombucha scoby leather</strong>
 <br />kombucha scoby with blue mold staining and  palm tree husk fibers
 <br /><img src="./kombuchascobytriptic3b.png" width="200">
+<br />
+<br />various baked substrate tests on bed of palm husk kombucha scoby leather
+<br /><img src="./IMG_3318.JPG" width="200">
 
 ## Saturday March 10th, 2018/ Kannai UINIMLKU
 <br />eringi from substrate kit inoculated on plate of malt agar
