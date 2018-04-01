@@ -11,7 +11,7 @@ layout: home
 Devices Made so far
 Tube Rack
 
-![tube rack](./IMG_2734.JPG | width=100)
+![tube rack](./IMG_2734.JPG?s=100)
 
 ![tube rack](./IMG_2730.JPG | width=100)
 
