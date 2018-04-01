@@ -41,17 +41,17 @@ layout: home
 
 ## Saturday February 24th, 2018/ Kannai UINIMLKU
 Pleurotus Ostreatus - winter oyster mushroom obtained from Waag
-Mycelium 
-- Waag Pleurotus Ostreatus http://biohackacademy.github.io/bha5/organisms/mycelium/
-to be grown on malt agar http://biohackacademy.github.io/bha4/cultivation-media/malt-agar/
-Malt Agar (MA)
-Non-selective medium suitable for growing yeast and fungi, for example slime molds.
-
-Compound	Amount	Unit
-Malt extract	30.0	g
-Agar	20	g
-Demi water	up to 1000	mL
-Set pH ~5.5
+<br />Mycelium 
+<br />- Waag Pleurotus Ostreatus http://biohackacademy.github.io/bha5/organisms/mycelium/
+<br />to be grown on malt agar http://biohackacademy.github.io/bha4/cultivation-media/malt-agar/
+<br />Malt Agar (MA)
+<br />Non-selective medium suitable for growing yeast and fungi, for example slime molds.
+<br />
+<br />Compound	Amount	Unit
+<br />Malt extract	30.0	g
+<br />Agar	20	g
+<br />Demi water	up to 1000	mL
+<br />Set pH ~5.5
 
 ## Week of March 5th, 2018
 substrates prepared:
@@ -68,58 +68,55 @@ substrates prepared:
 <br />https://www.amazon.co.jp/gp/product/B0031XX3X4/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
 
 <br /><strong>kombucha scoby leather</strong>
-<br />kombucha scoby left with blue mold staining and  palm tree husk fibers
+<br />kombucha scoby with blue mold staining and  palm tree husk fibers
 <br /><img src="./kombuchascobytriptic3b.png" width="200">
 
 ## Saturday March 10th, 2018/ Kannai UINIMLKU
-eringi from substrate kit inoculated on plate of malt agar
-hiratake from old dongels inoculated on plate of malt agar
+<br />eringi from substrate kit inoculated on plate of malt agar
+<br />hiratake from old dongels inoculated on plate of malt agar
 
 ## Saturday March 17th, 2018/ Kannai UINIMLKU
 <img src="./IMG_3141.JPG" width="200">
-potato agar diy, boil potatoes, use boiled potato water and add additional water until 1L, 20g sugar, 20g agar
-
-inoculated plates with 
-hiratake from old dongels > some later turned out to be contaminated with purple bacteria
-hiratake from shop sample
-white button mushroom from shop sample > some later turned out to be contaminated with purple bacteria
-shimeji tiny mushroom  from shop sample
-sarunokoshikake white  from park sample
-sarunokoshikake dark  from park sample
+<br />potato agar diy, boil potatoes, use boiled potato water and add additional water until 1L, 20g sugar, 20g agar
+<br />inoculated plates with 
+<br />hiratake from old dongels > some later turned out to be contaminated with purple bacteria
+<br />hiratake from shop sample
+<br />white button mushroom from shop sample > some later turned out to be contaminated with purple bacteria
+<br />shimeji tiny mushroom  from shop sample
+<br />sarunokoshikake white  from park sample
+<br />sarunokoshikake dark  from park sample
 
 ## Monday March 19th, 2018
 <img src="./IMG_3077.JPG" width="200">
-liquid mycelium in honey water
-white button mushroom from spore printing > spores used
-hiratake mushroom from spore printing > no visible spores, so part of mushroom sample used
-shimeji mushroom from spore printing > no visible spores, so part of mushroom sample used
-sarunokoshikake mushroom from spore printing > no visible spores, so part of mushroom sample used
-shiitake mushroom from spore printing > no visible spores, so part of mushroom sample used
+<br />liquid mycelium in honey water
+<br />white button mushroom from spore printing > spores used
+<br />hiratake mushroom from spore printing > no visible spores, so part of mushroom sample used
+<br />shimeji mushroom from spore printing > no visible spores, so part of mushroom sample used
+<br />sarunokoshikake mushroom from spore printing > no visible spores, so part of mushroom sample used
+<br />shiitake mushroom from spore printing > no visible spores, so part of mushroom sample used
 
 ## Tuesday March 20th, 2018/ BioClub Shibuya - Liquid Mycelium
 <img src="./IMG_3341.JPG" width="200">
-autoclaving of honey water for liquid mycelium
-maitake from shop sample
-brown button mushroom from shop sample
-shiitake from shop sample
-winter oyster mushroom from plate
+<br />autoclaving of honey water for liquid mycelium
+<br />maitake from shop sample
+<br />brown button mushroom from shop sample
+<br />shiitake from shop sample
+<br />winter oyster mushroom from plate
 
-## , 2018
-hydrated soy beans, garbanzo beans, corn, bird food seeds for koji inoculation and kept in 30C incubator
-
-## , 2018
-hydrated sunflower seeds, soy beans, garbanzo beans, corn, bird food seeds for mycelium inoculation
+## Week of March 20th, 2018
+<br />hydrated soy beans, garbanzo beans, corn, bird food seeds for koji inoculation and kept in 30C incubator
+<br />hydrated sunflower seeds, soy beans, garbanzo beans, corn, bird food seeds for mycelium inoculation
 
 ## Tuesday March 27th, 2018/ BioClub Shibuya
-received slime mold plates
-autoclaved sunflower seeds for mycelium inoculation with winter oyster mushroom
+<br />received slime mold plates
+<br />autoclaved sunflower seeds for mycelium inoculation with winter oyster mushroom
 
 ## Saturday March 31st, 2018 / BioClub Shibuya
-31/3/2018 winter oyster mushroom inoculation
-200ml water
-6g nutrients (peptone 11 plates, 9 plates potato dextrose, 8 plates yeast extract, 9 plates mix of all three)
-4g agar
-autoclave 121C 20min resulted in brown/yellow (caramelized?) solution
+<br />31/3/2018 winter oyster mushroom inoculation
+<br />200ml water
+<br />6g nutrients (peptone 11 plates, 9 plates potato dextrose, 8 plates yeast extract, 9 plates mix of all three)
+<br />4g agar
+<br />autoclave 121C 20min resulted in brown/yellow (caramelized?) solution
 
 ## Resources
 other resources for future reference
@@ -127,6 +124,7 @@ other resources for future reference
 http://www.grantomato.co.jp/ecscripts/reqapp.dll?APPNAME=forward&PRGNAME=gr_item_list_mei&ARGUMENTS=-A,-A4943066328236
 http://www.mitsunobu-nouen.com/shopdetail/004028000021/
 http://www.kinoko-nichino.com/htmls/tuushinhanbai-tyumon-nyuryoku.htm
+
 
 
 
