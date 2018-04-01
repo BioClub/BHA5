@@ -22,26 +22,21 @@ layout: home
 
 ### Devices Made so far
 #### Tube Rack
-
 <img src="./IMG_2734.JPG" width="200">
-
 <img src="./IMG_2730.JPG" width="200">
 
 #### Magnetic Stirrer
-
 <img src="./IMG_2712.JPG" width="200">
-
-
-### Devices to make
 
 #### Clean Bench
 <img src="./20180312_CleanBench_v14.png" width="200">
 
 #### incubator / temperature humidity controlled grow box
 <img src="./IMG_3055.JPG" width="200">
-humidity > magnetic resonance atomizer with water level sensor auto-switch off
-temperature cold > peltier device with heat sinks and fans
-temperature warm > ceramic heat resistors and aluminium foil heat mat, aquarium heater
+<br />a prototype with light, temperature and humidity control
+<br />humidity > magnetic resonance atomizer with water level sensor auto-switch off
+<br />temperature cold > peltier device with heat sinks and fans
+<br />temperature warm > ceramic heat resistors and aluminium foil heat mat, aquarium heater
 
 
 ## Saturday February 24th, 2018/ Kannai UINIMLKU
