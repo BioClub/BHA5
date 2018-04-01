@@ -8,18 +8,12 @@ layout: home
 ## Documentation
 
 ### Project: Grow Your Lab and Eat It
-keywords: 
+<strong>keywords: </strong>
 <br />sustainability, local resources, upcycling, biodegradable, uncommon combos
 <br />
-<br />introduction:
-<br />You can have your cake and eat it too. Mushrooms can be eaten and their mycelium substrate can be shaped and baked into myco materials and objects. Kombucha tea can be consumed, and the scoby can be dried and processed into fruit leather for fashion. Meanwhile many of the kitchen waste materials can be upcycled by introducing them into the production stream. Coffee grounds and old bread can be used as mycelium substrate. Old tea and coffee can be used to create cellulose. The properties of myco materials are: hard, light, water resistant and fire retardent. The properties of cellulose materials are: light, flexible and water absorbant. The combination of those two materials should make it possible to create some lab equipment while maitaining the ideal conditions for the production of materials and edible by-products.
+<br /><strong>introduction:</strong>
+<br />You can have your cake and eat it too. Mushrooms can be eaten and their mycelium substrate can be shaped and baked into myco materials and objects. Kombucha tea can be consumed, and the scoby can be dried and processed into fruit leather for fashion. Meanwhile many of the kitchen waste materials can be upcycled by introducing them into the production stream. Coffee grounds and old bread can be used as mycelium substrate. Old tea and coffee can be used to create cellulose. The properties of myco materials are: hard, light, water resistant and fire retardent. The properties of cellulose materials are: light, flexible and water absorbant. The combination of those two materials should make it possible to create some lab equipment while maitaining the ideal conditions for the production of materials and edible by-products. The proposed experiment would attempt to build a fermenting lab for various active cultures (sourdough starter, kombucha tea and coffee, mycelium, koji and others) where the output of the lab is used to grow the lab itself and add extensions on the go. This auto-genesis would add archeological layers of dead and active material, both in a bottom up and horizontal expansive manner.
 
-
-Experimenting with Biomaterials
-- local fibers: palm husk
-- food waste: coffee grounds, old bread
-- kombucha leather
-- mycobricks
 
 ### Devices Made so far
 #### Tube Rack
