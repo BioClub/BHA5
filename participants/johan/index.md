@@ -66,6 +66,9 @@ substrates prepared:
 <br /><strong>King Oyster Mushroom Grow Kit</strong>
 <br />obtained from amazon.co.jp
 <br />https://www.amazon.co.jp/gp/product/B0031XX3X4/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+<br />received by mail, unboxed, bag cut open, top layer mycelium removed, soaked in cold water for 30 minutes, kept in dark coolbox at 95% humidity and 15-20C 
+<br />last week of March first eringi mushrooms popping up
+<br /><img src="./IMG_3690.JPG" width="100">
 
 <br /><strong>kombucha scoby leather</strong>
 <br />kombucha scoby with blue mold staining and  palm tree husk fibers
