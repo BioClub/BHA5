@@ -38,6 +38,7 @@ layout: home
 <img src="./20180312_CleanBench_v14.png" width="200">
 
 #### incubator / temperature humidity controlled grow box
+<img src="./IMG_3055.JPG" width="200">
 humidity > magnetic resonance atomizer with water level sensor auto-switch off
 temperature cold > peltier device with heat sinks and fans
 temperature warm > ceramic heat resistors and aluminium foil heat mat, aquarium heater
