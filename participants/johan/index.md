@@ -22,16 +22,14 @@ layout: home
 
 ### Devices Made so far
 #### Tube Rack
-<img src="./IMG_2734.JPG" width="200">
-<img src="./IMG_2730.JPG" width="200">
+<img src="./IMG_2734.JPG" width="200"> <img src="./IMG_2730.JPG" width="200">
 
 #### Magnetic Stirrer
 <img src="./IMG_2712.JPG" width="200">
 
 #### Clean Bench
 clean bench prototype
-<img src="./20180312_CleanBench_v14.png" width="200">
-<img src="./IMG_3175.JPG" width="200">
+<br /><img src="./20180312_CleanBench_v14.png" width="200"> <img src="./IMG_3175.JPG" width="200">
 
 #### incubator / temperature humidity controlled grow box
 <img src="./IMG_3055.JPG" width="200">
