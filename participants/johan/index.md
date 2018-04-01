@@ -98,6 +98,7 @@ eringi from substrate kit
 hiratake from old dongels
 
 ## Saturday March 17th, 2018/ Kannai UINIMLKU
+![image](./IMG_3141.JPG)
 potato agar diy, boil potatoes, use boiled potato water and add additional water until 1L, 20g sugar, 20g agar
 
 inoculated plates with 
