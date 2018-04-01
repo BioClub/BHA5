@@ -10,7 +10,7 @@ layout: home
 ### Project: Grow Your Lab and Eat It
 <img src="./SDgun_render12.png" height="200"> <img src="./bread13.png" height="200"> <img src="./sciencedesk3.png" height="200">
 <br />
-<img src="./IMG_3166 (1).JPG" height="200"> <img src="./IMG_2901 (1).JPG" height="200"> <img src="./IMG_3151.JPG" height="200">
+<img src="./IMG_3166 (1).JPG" height="200"> <img src="./IMG_3151.JPG" height="200"> <img src="./IMG_2901 (1).JPG" height="200"> 
 <br />
 <br /><strong>keywords: </strong>
 <br />sustainability, local resources, upcycling, biodegradable, uncommon combos, fermenting, active cultures, auto genesis, meta building, recursive process, robotics, wet bots, food server
