@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-<img src="./BHA5.png" width="100">
+<img src="./BHA5.png" width="200">
 
 # Johan
 ## Documentation
@@ -11,19 +11,19 @@ layout: home
 Devices Made so far
 Tube Rack
 
-<img src="./IMG_2734.JPG" width="100">
+<img src="./IMG_2734.JPG" width="200">
 
-<img src="./IMG_2730.JPG" width="100">
+<img src="./IMG_2730.JPG" width="200">
 
 Magnetic Stirrer
 
-<img src="./IMG_2712.JPG" width="100">
+<img src="./IMG_2712.JPG" width="200">
 
 
 Devices to make
 
 Clean Bench
-![clean bench](./20180312_CleanBench_v14.png| width=100)
+<img src="./20180312_CleanBench_v14.png" width="200">
 
 incubator / temperature humidity controlled grow box
 
@@ -39,11 +39,11 @@ Experimenting with Biomaterials
 substrates prepared:
 straw (boiled 40min),palm tree husk (boiled 40min), rice hull (boiled 40min),steamed rice, brown rice, brown rice flour, mix of brown rice and brown rice flour, kombucha scoby, coffee grounds
 
-![substrates](./IMG_2806.JPG | width=100)
+<img src="./IMG_2806.JPG" width="100">
 warm box and 9 substrates inoculated with koji, trying to keep the temperature between 30-60C
-![warm box](./IMG_2813.JPG | width=100)
+<img src="./IMG_2813.JPG" width="100">
 cold box and 9 substrates inoculated with king oyster mushroom, trying to keep the temperature between 15-20C and hunidity at 95%
-![cold box](./IMG_2817.JPG | width=100)
+<img src="./IMG_2817.JPG" width="100">
 challenge: incubator / temp-humidity controlled box not ready yet
 
 bioplastic with starch, agar, water, vinegar,
@@ -54,9 +54,9 @@ bioplastic end result hard but easily snaps to break > next time try to add glyc
 
 kombucha scoby left with blue mold staining
 kombucha scoby right with palm tree husk fibers
-![kombucha scoby leather](./IMG_2780.JPG | width=100)
+<img src="./IMG_2780.JPG" width="100">
 
-![kombucha scoby leather](./kombuchascobytriptic3b.png | width=100)
+<img src="./kombuchascobytriptic3b.png" width="100">
 
 
 Resources
