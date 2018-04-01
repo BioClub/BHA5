@@ -8,7 +8,7 @@ layout: home
 ## Documentation
 
 ### Project: Grow Your Lab and Eat It
-<img src="./SDgun_render12.png" height="190"> <img src="./bread13.png" height="190"> <img src="./sciencedesk3.png" height="190">
+<img src="./SDgun_render12.png" height="180"> <img src="./bread13.png" height="180"> <img src="./sciencedesk3.png" height="180">
 <br />
 <img src="./IMG_3166 (1).JPG" height="160"> <img src="./IMG_3151.JPG" height="160"> <img src="./kombuchascobytriptic3_1.png" height="160"> <img src="./kombuchascobytriptic3_2.png" height="160"> <img src="./kombuchascobytriptic3_3.png" height="160">
 
