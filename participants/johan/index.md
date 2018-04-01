@@ -110,6 +110,7 @@ sarunokoshikake white  from park sample
 sarunokoshikake dark  from park sample
 
 ## Monday March 19th, 2018
+![image](./IMG_3077.JPG)
 liquid mycelium in honey water
 white button mushroom from spore printing > spores used
 hiratake mushroom from spore printing > no visible spores, so part of mushroom sample used
