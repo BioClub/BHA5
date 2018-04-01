@@ -16,9 +16,7 @@ layout: home
 <br /><br />The properties of myco materials are: hard, light, water resistant and fire retardent. The properties of cellulose materials are: light, flexible and water absorbant. The combination of those two materials should make it possible to create some lab equipment while maitaining the ideal conditions for the production of materials and edible by-products. The proposed experiment would attempt to build a fermenting lab for various active cultures (sourdough starter, kombucha tea and coffee, mycelium, koji and others) where the output of the lab is used to grow the lab itself and add extensions on the go. This auto-genesis would add archeological layers of dead and active material, both in a bottom up and horizontal expansive manner.
 <br /><br />The lab experiment could churn out new materials as combinations of the materials and active cultures could cross-ferment or contaminate. It could also have autonomy to decide how much of the output to feed to humans and how much to use to expand itself and scale up its future production of volume or materialistic diversity. The lab could be extended with modular hi-tech/low-tech such as a sourdough starter gun printer, a kombucha overflow gletcher, a koji foam slicer or a myco bake-and-preserve flame thrower.
 
-
-<img src="./bread13.png" width="200">
-<img src="./SDgun_render12.png" width="200">
+<img src="./bread13.png" width="200"><img src="./SDgun_render12.png" width="200">
 
 ### Devices Made so far
 #### Tube Rack
@@ -38,7 +36,6 @@ clean bench prototype
 <br />temperature cold > peltier device with heat sinks and fans
 <br />temperature warm > ceramic heat resistors and aluminium foil heat mat, aquarium heater
 
-
 ## Saturday February 24th, 2018/ Kannai UINIMLKU
 Pleurotus Ostreatus - winter oyster mushroom obtained from Waag
 <br />Mycelium 
@@ -55,11 +52,11 @@ Pleurotus Ostreatus - winter oyster mushroom obtained from Waag
 
 ## Week of March 5th, 2018
 substrates prepared:
-<br /><img src="./IMG_2806.JPG" width="100">
+<br /><img src="./IMG_2806.JPG" width="200">
 <br />straw (boiled 40min),palm tree husk (boiled 40min), rice hull (boiled 40min),steamed rice, brown rice, brown rice flour, mix of brown rice and brown rice flour, kombucha scoby, coffee grounds
-<br /><img src="./IMG_2813.JPG" width="100">
+<br /><img src="./IMG_2813.JPG" width="200">
 <br />warm box and 9 substrates inoculated with koji, trying to keep the temperature between 30-60C
-<br /><img src="./IMG_2817.JPG" width="100">
+<br /><img src="./IMG_2817.JPG" width="200">
 <br />cold box and 9 substrates inoculated with king oyster mushroom, trying to keep the temperature between 15-20C and hunidity at 95%
 <br />challenge: incubator / temp-humidity controlled box not ready yet
 <br />
@@ -68,7 +65,7 @@ substrates prepared:
 <br />https://www.amazon.co.jp/gp/product/B0031XX3X4/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
 <br />received by mail, unboxed, bag cut open, top layer mycelium removed, soaked in cold water for 30 minutes, kept in dark coolbox at 95% humidity and 15-20C 
 <br />last week of March first eringi mushrooms popping up
-<br /><img src="./IMG_3690.JPG" width="100">
+<br /><img src="./IMG_3690.JPG" width="200">
 
 <br /><strong>kombucha scoby leather</strong>
 <br />kombucha scoby with blue mold staining and  palm tree husk fibers
