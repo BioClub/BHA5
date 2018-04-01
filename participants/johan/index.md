@@ -88,3 +88,60 @@ http://www.grantomato.co.jp/ecscripts/reqapp.dll?APPNAME=forward&PRGNAME=gr_item
 http://www.mitsunobu-nouen.com/shopdetail/004028000021/
 http://www.kinoko-nichino.com/htmls/tuushinhanbai-tyumon-nyuryoku.htm
 
+
+
+## Saturday February 24th, 2018/ Kannai UINIMLKU
+winter oyster mushroom
+
+## Saturday March 10th, 2018/ Kannai UINIMLKU
+eringi from substrate kit
+hiratake from old dongels
+
+## Saturday March 17th, 2018/ Kannai UINIMLKU
+potato agar diy, boil potatoes, use boiled potato water and add additional water until 1L, 20g sugar, 20g agar
+
+inoculated plates with 
+hiratake from old dongels > some later turned out to be contaminated with purple bacteria
+hiratake from shop sample
+white button mushroom from shop sample > some later turned out to be contaminated with purple bacteria
+shimeji tiny mushroom  from shop sample
+sarunokoshikake white  from park sample
+sarunokoshikake dark  from park sample
+
+## Monday March 19th, 2018
+liquid mycelium in honey water
+white button mushroom from spore printing > spores used
+hiratake mushroom from spore printing > no visible spores, so part of mushroom sample used
+shimeji mushroom from spore printing > no visible spores, so part of mushroom sample used
+sarunokoshikake mushroom from spore printing > no visible spores, so part of mushroom sample used
+shiitake mushroom from spore printing > no visible spores, so part of mushroom sample used
+
+
+
+## Tuesday March 20th, 2018/ BioClub Shibuya - Liquid Mycelium
+autoclaving of honey water for liquid mycelium
+maitake from shop sample
+brown button mushroom from shop sample
+shiitake from shop sample
+winter oyster mushroom from plate
+
+
+
+## , 2018
+hydrated soy beans, garbanzo beans, corn, bird food seeds for koji inoculation and kept in 30C incubator
+
+## , 2018
+hydrated sunflower seeds, soy beans, garbanzo beans, corn, bird food seeds for mycelium inoculation
+
+## Tuesday March 27th, 2018/ BioClub Shibuya
+received slime mold plates
+autoclaved sunflower seeds for mycelium inoculation with winter oyster mushroom
+
+## Saturday March 31st, 2018 / BioClub Shibuya
+31/3/2018 winter oyster mushroom inoculation
+200ml water
+6g nutrients (peptone 11 plates, 9 plates potato dextrose, 8 plates yeast extract, 9 plates mix of all three)
+4g agar
+autoclave 121C 20min resulted in brown/yellow (caramelized?) solution
+
+
