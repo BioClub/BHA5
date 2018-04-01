@@ -121,6 +121,7 @@ shiitake mushroom from spore printing > no visible spores, so part of mushroom s
 
 
 ## Tuesday March 20th, 2018/ BioClub Shibuya - Liquid Mycelium
+![image](./IMG_3341.JPG)
 autoclaving of honey water for liquid mycelium
 maitake from shop sample
 brown button mushroom from shop sample
