@@ -120,11 +120,23 @@ substrates prepared:
 <br />autoclaved sunflower seeds for mycelium inoculation with winter oyster mushroom
 
 ## Saturday March 31st, 2018 / BioClub Shibuya
-<br />31/3/2018 winter oyster mushroom inoculation
+<br />31/3/2018 winter oyster mushroom inoculation on plates with various nutrients
 <br />200ml water
 <br />6g nutrients (peptone 11 plates, 9 plates potato dextrose, 8 plates yeast extract, 9 plates mix of all three)
 <br />4g agar
 <br />autoclave 121C 20min resulted in brown/yellow (caramelized?) solution
+
+## Tuesday April 2nd, 2018 / BioClub Shibuya
+<br />presentation of final projects
+<br />conclusion of inoculation and substrates
+<ul>
+  <li>kombucha leather is relatively easy to produce, flexibility can be achieved by applying coconut oil and glycerin, water resistance can be obtained by using beeswax</li>
+   <li>coffee leather can be created by training a scoby to digest coffee liquid, we have not yet tried drying the scoby yet</li>
+  <li>koji can be baked into solid materials</li>
+  <li>liquid mycelium can be created in honey water, both by adding spores or mushroom sample tissue, this can then be used to inoculate substrates/grain with a syringe</li>
+  <li>the main challenge is that various active cultures need different growing and storing conditions, even during the life cycle of one single active culture, hence to summarize this into a single lab setup it would need an intricate diversity of light/dark, cool/warm, dry/humid, liquid/solid, aerobic/anaerobic, etc.</li>
+</ul>
+
 
 ## Resources
 other resources for future reference
