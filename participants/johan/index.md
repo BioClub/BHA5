@@ -15,8 +15,10 @@ layout: home
 <br />You can have your cake and eat it too. Mushrooms can be eaten and their mycelium substrate can be shaped and baked into myco materials and objects. Kombucha tea can be consumed, and the scoby can be dried and processed into fruit leather for fashion. Meanwhile many of the kitchen waste materials can be upcycled by introducing them into the production stream. Coffee grounds and old bread can be used as mycelium substrate. Old tea and coffee can be used to create cellulose. 
 <br /><br />The properties of myco materials are: hard, light, water resistant and fire retardent. The properties of cellulose materials are: light, flexible and water absorbant. The combination of those two materials should make it possible to create some lab equipment while maitaining the ideal conditions for the production of materials and edible by-products. The proposed experiment would attempt to build a fermenting lab for various active cultures (sourdough starter, kombucha tea and coffee, mycelium, koji and others) where the output of the lab is used to grow the lab itself and add extensions on the go. This auto-genesis would add archeological layers of dead and active material, both in a bottom up and horizontal expansive manner.
 <br /><br />The lab experiment could churn out new materials as combinations of the materials and active cultures could cross-ferment or contaminate. It could also have autonomy to decide how much of the output to feed to humans and how much to use to expand itself and scale up its future production of volume or materialistic diversity. The lab could be extended with modular hi-tech/low-tech such as a sourdough starter gun printer, a kombucha overflow gletcher, a koji foam slicer or a myco bake-and-preserve flame thrower.
+<br /><strong>conclusion:</strong>
+<br />Since the process of growing active cultures is slow and complex we have only been able to research the aquisition and inoculation of substrates to date. We have not yet been able to experiment with applying these inoculations to pre-shaped objects and lab building yet, something we hope to achieve by this summer.
 
-<img src="./bread13.png" width="200"><img src="./SDgun_render12.png" width="200">
+<img src="./bread13.png" width="200"> <img src="./SDgun_render12.png" width="200">
 
 ### Devices Made so far
 #### Tube Rack
