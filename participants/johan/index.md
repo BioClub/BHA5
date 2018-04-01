@@ -13,6 +13,9 @@ layout: home
 <br /><strong>keywords: </strong>
 <br />sustainability, local resources, upcycling, biodegradable, uncommon combos, fermenting, active cultures, auto genesis, meta building, recursive process, robotics, wet bots, food server
 <br />
+<br /><strong>one liner:</strong>
+<br />What if you could grow your lab and eat it too. The lab would be created with the raw materials it needs to produce edible outcome. The mushrooms would be grown in a dark room of bread and coffee grounds. The kombucha leather would come out of the myco tray. Leftovers would feed the growing lab. The lab could either feed us or feed itself. The lab could choose to do both.
+<br />
 <br /><strong>introduction:</strong>
 <br />You can have your cake and eat it too. Mushrooms can be eaten and their mycelium substrate can be shaped and baked into myco materials and objects. Kombucha tea can be consumed, and the scoby can be dried and processed into fruit leather for fashion. Meanwhile many of the kitchen waste materials can be upcycled by introducing them into the production stream. Coffee grounds and old bread can be used as mycelium substrate. Old tea and coffee can be used to create cellulose. 
 <br /><br />The properties of myco materials are: hard, light, water resistant and fire retardent. The properties of cellulose materials are: light, flexible and water absorbant. The combination of those two materials should make it possible to create some lab equipment while maitaining the ideal conditions for the production of materials and edible by-products. The proposed experiment would attempt to build a fermenting lab for various active cultures (sourdough starter, kombucha tea and coffee, mycelium, koji and others) where the output of the lab is used to grow the lab itself and add extensions on the go. This auto-genesis would add archeological layers of dead and active material, both in a bottom up and horizontal expansive manner.
