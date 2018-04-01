@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-![Test Image](./BHA5.png?s=100)
+<img src="./BHA5.png" width="100">
 
 # Johan
 ## Documentation
