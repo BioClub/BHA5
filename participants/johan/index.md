@@ -11,13 +11,13 @@ layout: home
 Devices Made so far
 Tube Rack
 
-![tube rack](./IMG_2734.JPG| width=100)
+![tube rack](./IMG_2734.JPG | width=100)
 
-![tube rack](./IMG_2730.JPG| width=100)
+![tube rack](./IMG_2730.JPG | width=100)
 
 Magnetic Stirrer
 
-![magnetic stirrer](./IMG_2712.JPG| width=100)
+![magnetic stirrer](./IMG_2712.JPG | width=100)
 
 
 Devices to make
@@ -39,24 +39,24 @@ Experimenting with Biomaterials
 substrates prepared:
 straw (boiled 40min),palm tree husk (boiled 40min), rice hull (boiled 40min),steamed rice, brown rice, brown rice flour, mix of brown rice and brown rice flour, kombucha scoby, coffee grounds
 
-![substrates](./IMG_2806.JPG| width=100)
+![substrates](./IMG_2806.JPG | width=100)
 warm box and 9 substrates inoculated with koji, trying to keep the temperature between 30-60C
-![warm box](./IMG_2813.JPG| width=100)
+![warm box](./IMG_2813.JPG | width=100)
 cold box and 9 substrates inoculated with king oyster mushroom, trying to keep the temperature between 15-20C and hunidity at 95%
-![cold box](./IMG_2817.JPG| width=100)
+![cold box](./IMG_2817.JPG | width=100)
 challenge: incubator / temp-humidity controlled box not ready yet
 
 bioplastic with starch, agar, water, vinegar,
 ![bioplastic](./IMG_2835.JPG| width=100)
 
 bioplastic end result hard but easily snaps to break > next time try to add glycerin
-![bioplastic](./IMG_2839.JPG| width=100)
+![bioplastic](./IMG_2839.JPG | width=100)
 
 kombucha scoby left with blue mold staining
 kombucha scoby right with palm tree husk fibers
-![kombucha scoby leather](./IMG_2780.JPG| width=100)
+![kombucha scoby leather](./IMG_2780.JPG | width=100)
 
-![kombucha scoby leather](./kombuchascobytriptic3b.png)
+![kombucha scoby leather](./kombuchascobytriptic3b.png | width=100)
 
 
 Resources
@@ -98,7 +98,7 @@ eringi from substrate kit
 hiratake from old dongels
 
 ## Saturday March 17th, 2018/ Kannai UINIMLKU
-![image](./IMG_3141.JPG| width=100)
+![image](./IMG_3141.JPG | width=100)
 potato agar diy, boil potatoes, use boiled potato water and add additional water until 1L, 20g sugar, 20g agar
 
 inoculated plates with 
@@ -110,7 +110,7 @@ sarunokoshikake white  from park sample
 sarunokoshikake dark  from park sample
 
 ## Monday March 19th, 2018
-![image](./IMG_3077.JPG| width=100)
+![image](./IMG_3077.JPG | width=100)
 liquid mycelium in honey water
 white button mushroom from spore printing > spores used
 hiratake mushroom from spore printing > no visible spores, so part of mushroom sample used
@@ -121,7 +121,7 @@ shiitake mushroom from spore printing > no visible spores, so part of mushroom s
 
 
 ## Tuesday March 20th, 2018/ BioClub Shibuya - Liquid Mycelium
-![image](./IMG_3341.JPG| width=100)
+![image](./IMG_3341.JPG | width=100)
 autoclaving of honey water for liquid mycelium
 maitake from shop sample
 brown button mushroom from shop sample
