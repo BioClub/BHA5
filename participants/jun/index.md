@@ -71,7 +71,15 @@ I got an inspiration from the melting way of candles which sacrifice themselves 
 
 
 ### Zoetrope
-- 
+- inside
+
+![Test Image](image/zoetrope1.JPG)
+![Test Image](image/zoetrope2.JPG)
+![Test Image](image/zoetrope3.JPG)
+- outside
+
+![Test Image](image/zoetrope4.JPG)
+![Test Image](image/zoetrope5.JPG)
 
 
 
