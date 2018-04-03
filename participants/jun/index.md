@@ -29,17 +29,34 @@ I got an inspiration from the melting way of candles which sacrifice themselves 
 #### what I need
 - candle
 
+![Test Image](image/candle.JPG)
 - jelly candle 
+
+![Test Image](image/jellycandle.JPG)
 - testing tube
 
 ![Test Image](image/testingtube.JPG)
 - wood 
+
+![Test Image](image/wood.JPG)
 - cardboard
+
+![Test Image](image/cardboard.JPG)
 - aluminum foil 
+
+![Test Image](image/aluminiumfoil.JPG)
 - Aluminum dish
+
+![Test Image](image/aluminiumplate.JPG)
 - Drawing paper
+
+![Test Image](image/paper.JPG)
 - washi(japanese traditional paper)
+
+![Test Image](image/washi.JPG)
 - kite string
+
+![Test Image](image/kitestring.JPG)
 
 
 
