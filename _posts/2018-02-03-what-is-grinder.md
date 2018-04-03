@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BioHacking vs. BioHacking"
+title:  "What is Grinder?"
 author: kazuhide
 date:   2018-02-03 12:00:00
 categories: homework
@@ -8,19 +8,8 @@ tags:
 ---
 
 
-# What is biohacking?
+# What is grinder?
 
-1,Nutrigenomics, using nutrition to hack (take control of) human biology
-
-2,Do-it-yourself biology, biotechnological social movement in which individuals and small organizations study biology using the same methods as traditional research institutions
-
-3,Grinder (biohacking), people who try to improve their own bodies with do-it-yourself cybernetic devices
+People who try to improve their own bodies with do-it-yourself cybernetic devices
 
 ![bio](/images/body-mods.jpg)
-
-# We must use these technologies correctly
-
-- gene-editing
-- gene-drive
-- gene-cloneing
-- etc
