@@ -32,7 +32,9 @@ layout: home
 
 ## What is bioinfomatics? What can we do by using it?(Final Presentation)
 
-I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many hours, so I decided to change my plan.I find a good course about Bioinfomatics. I want to figure out what is bioinfomatics and make a presentation about my definition of bioinfomatics.And I gonna actually make some works.By doing so,I think I can output my knowledge.It is very good.
+I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many hours, so I decided to change my plan.I like computer programming and somehow want to approach human body by computer technology.
+Thanks to Biohack-achademy lecture, I started to have curiosity about ‘bioinformatics’ and ‘synthetic-biology'.
+Through this presentation,I want to output my knowledge about bioinformatics.
 
 - [Bioinfomatics](https://en.wikipedia.org/wiki/Bioinformatics)
 - [Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
@@ -41,6 +43,11 @@ I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making so
 - [SIB](https://www.sib.swiss/training/e-learning)
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
 - [Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
+
+## What is bioinformatics? 
+
+Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, Bioinformatics combines Computer Science, Biology, Mathematics, and Engineering to analyze and interpret biological data.The main task of bioinformatics is analysis and interpretation of various types of data.
+
 
 ## PlanA(Midterm Presentation) 　
 I want to compare how slime mold and ants will solve the same maze.  
