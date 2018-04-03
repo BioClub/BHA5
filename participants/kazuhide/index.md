@@ -34,7 +34,7 @@ layout: home
 
 I like computer programming and somehow want to approach human body by computer technology.
 Thanks to Biohack-achademy lecture, I started to have curiosity about ‘bioinformatics’ and ‘synthetic-biology'.
-Through this presentation,I want to output my knowledge about bioinformatics.
+Through this presentation,I want to output my knowledge about bioinformatics.And I also want to imagine our fantastic future possibilities.
 
 - [Bioinfomatics](https://en.wikipedia.org/wiki/Bioinformatics)
 - [Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
@@ -68,9 +68,9 @@ CACGTCTGTTCGCCTAAAACTTTGATTGCCGGCCTACGCTAGTTAGTTA
 - Sequence_5  
 GGGGTCATGGCTGTTTGCCTTAAACCCTTGGCGGCCTAGCCGTAATGTTT
 
-## I want to not only Read(analysis) but also Write(synthetic) DNA
+## My imagination of our furture
 
-Searching about bioinformatics,I realized that what I really want to do is 'Synthetic biology'.The below picture is my imagination of our furture.  
+Searching about bioinformatics,I realized that what I really want to do is 'Synthetic biology'.I want to not only Read(analysis) but also Write(synthetic) DNA.The below picture is my imagination of our furture.  
 In the furture,DIY biologists will produce synthetic plants or synthetic cars.The outsourcing systems and biological infrastructure will enable us to do like that.The only thing we have to do is to design cells.  
 
 ![image](https://user-images.githubusercontent.com/29623255/38227759-cf4b6862-373a-11e8-966a-76dc6818ff9d.png)
