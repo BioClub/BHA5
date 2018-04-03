@@ -39,7 +39,7 @@ I got an inspiration from the melting way of candles which sacrifice themselves 
 - Aluminum dish
 - Drawing paper
 - washi(japanese traditional paper)
-
+- kite string
 
 
 
