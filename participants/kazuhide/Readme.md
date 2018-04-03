@@ -1,20 +1,83 @@
 ---
 layout: home
 ---
+
+
 # My schedule
-|  | Plan |
+
+
+| Date | Plan |
 |:-----------:|:-----------:|
+| 1/30(Tuesday) | What is DIY bio? |
+| 2/3(Saturday) | Lab tour |
+| 2/6(Tuesday) | What is life? |
+| 2/10(Saturday) | Making a original tube luck |
+| 2/13(Tuesday) | ❌ |
+| 2/17(Saturday) | In San Francisco(Presentation about DIYbio community) |
+| 2/20(Tuesday) | In San Francisco(presentation about DIYbio community) |
+| 2/24(Saturday) | In San Francisco(presentation about DIYbio community) |
+| 2/27(Tuesday) | ❌ |
+| 3/3(Saturday) | Making a incubator(Audiruno) |
+| 3/6(Tuesday) | Midterm Presentation(How to solve the same maze?) |
 | 3/10(Saturday) | ❌ |
-| 3/13(Tuesday) |  |
-| 3/17(Saturday) | Shojin meat |
+| 3/13(Tuesday) | ❌ |
+| 3/17(Saturday) | Shojin meat work shop |
 | 3/20(Tuesday) | ❌ |
-| 3/24(Saturday) |  |
+| 3/24(Saturday) | DNA extraction(Mystery meat) |
 | 3/27(Tuesday) | ❌ |
-| 3/31(Saturday) |  |
-| 4/2(Monday) |  |
+| 3/31(Saturday) | ❌ |
+| 4/3(Tuesday) | Final Presentation(What is bioinformatics?) |
 
 # My personal project
-## PlanA 　
+
+## What is bioinfomatics? What can we do by using it?(Final Presentation)
+
+- [Video](https://vimeo.com/262922235)
+
+I like computer programming and somehow want to approach human body by computer technology.
+Thanks to Biohack-achademy lecture, I started to have curiosity about ‘bioinformatics’ and ‘synthetic-biology'.
+Through this presentation,I want to output my knowledge about bioinformatics.And I also want to imagine our fantastic future possibilities.
+
+- [Bioinfomatics](https://en.wikipedia.org/wiki/Bioinformatics)
+- [Udemy](https://www.udemy.com/learn-bioinformatics-in-6-days/)
+- [Rosalind](http://rosalind.info/problems/locations/)
+- [4273π](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-243)
+- [SIB](https://www.sib.swiss/training/e-learning)
+- [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
+- [Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
+
+### The definition of bioinformatics
+
+Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, Bioinformatics combines Computer Science, Biology, Mathematics, and Engineering to analyze and interpret biological data.The main task of bioinformatics is analysis and interpretation of various types of data.
+
+### Simple Example 1(Introduction)
+If you get such DNA sequence, how to count 'A', 'C', 'G', 'T'?  
+
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+
+### Simple Example 2(Global Multiple Alignment)
+
+If you get such 5 Sequences, how to find which strings are most different from the others?  
+
+- Sequence_1  
+GACATGTTTGTTTGCCTTAAACTCGTGGCGGCCTAGCCGTAAGTTAAG
+- Sequence_2  
+ACTCATGTTTGTTTGCCTTAAACTCTTGGCGGCTTAGCCGTAACTTAAG
+- Sequence_3  
+TCCTATGTTTGTTTGCCTCAAACTCTTGGCGGCCTAGCCGTAAGGTAAG
+- Sequence_4  
+CACGTCTGTTCGCCTAAAACTTTGATTGCCGGCCTACGCTAGTTAGTTA
+- Sequence_5  
+GGGGTCATGGCTGTTTGCCTTAAACCCTTGGCGGCCTAGCCGTAATGTTT
+
+### My imagination of our furture
+
+Searching about bioinformatics,I realized that what I really want to do is 'Synthetic biology'.I want to not only Read(analysis) but also Write(synthetic) DNA.The below picture is my imagination of our furture.  
+In the furture,DIY biologists will produce synthetic plants or synthetic cars.The outsourcing systems and biological infrastructure will enable us to do like that.The only thing we have to do is to design cells.  
+
+![image](https://user-images.githubusercontent.com/29623255/38227759-cf4b6862-373a-11e8-966a-76dc6818ff9d.png)
+
+## PlanA(Midterm Presentation) 　
 I want to compare how slime mold and ants will solve the same maze.  
 Thanks to a biohackachademy's workshop,I realized some uniqe characteristics of slime molds.  
 I found the article that slime mold can select the shortest route of a maze. Ants also can do that.  
@@ -22,9 +85,12 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 ![image](https://user-images.githubusercontent.com/29623255/36946234-1adc5ca0-1ffd-11e8-9ca9-d5c896a43d5c.png)
 ![image](https://user-images.githubusercontent.com/29623255/36946245-3f96152c-1ffd-11e8-8a89-29ab858a7412.png)
 
+ダンゴムシも「交替性転向反応」  
+精子も方向性がある
+
 ## PlanB  
 
-「働かないアリの粘菌生活」をテーマにして、アリと粘菌をコラボさせれたらなと思っています。アリが粘菌によって持続的に栄養を補給できるような世界を作って、働きアリをいなくさせるみたいなこと.
+「働かないアリの粘菌生活」をテーマにして、アリと粘菌をコラボさせたい。アリが粘菌によって持続的に栄養を補給できるような世界を作って、働きアリをいなくさせるみたいなこと.ハキリアリは自分で菌を栽培している。
 
 ## PlanC  
 
@@ -32,63 +98,131 @@ I found the article that slime mold can select the shortest route of a maze. Ant
 
 ## PlanD
 
-手相と遺伝子とマイクロバイオームの関係を探りたい。
+手相と遺伝子とマイクロバイオームの関係を探りたい。  
 
-1,自分の遺伝子を解析。  
-2,自分の手を石膏みたいなので型とって、手相を3Dで再現する。  
+1,自分の遺伝子を解析  
+2,自分の手をスキャンして,3Dプリント  
 3,迷信のような手相学と、遺伝子解析結果の相関をみる。寿命、IQ、など
 
 ## PlanE
+
+[Ginkgo bioworks](https://www.ginkgobioworks.com/)
 
 リモートから研究設備にアクセスしたい。そうすればより、オープンソース化され、DIYが捗るのでは？
 全部パソコンから操作してあとはロボットにやってほしい(顕微鏡とかPCRとかも)
 そうすれば実験の前にコンピューターでシミュレーションできるし、危険な組み合わせの時とかは実行前にエラー出るし、安全では？
 
-# My curiosity 
+## PlanF
 
-## バイオデザインとは  
+マイクロバイオーム嘘発見器
+
+## PlanG
+
+### Question
+- 途中で遺伝子プールを変更したらどのような影響が出るだろうか？
+- 個体レベルでは利他的な、しかしGeneレベルでは結果として利己的な、アリの集団における振る舞い、決定法についてもっと知りたい。自分の遺伝子が含まれている他の個体をアリは、どう判断しているのか？アリの判断能力はどこに由来するのか？脳？そこにどういうやり取りがあるのだろうか？利己的な遺伝子の観点からすると、一回分けられると、集団それぞれの自我(利己心)が生じるはず。どういうメリットで、お互い再びくっつきたいと思うのか？観察の中で、自然選択がみられるのでは？
+
+### Hypothesis
+- 遺伝子プールは一度分断されて、それぞれの遺伝子プールができても、再び結合されると、遺伝子プール間でなんらかのやり取りがあるはずなので、元に戻る。
+
+### Verification
+- まずは一匹の女王アリから蟻のコロニーを作る。ここには遺伝子プールが存在している(A)。コロニー成長後、卵ができたら、女王アリを取り除く。その後３分割してしばらく放置(B,C,D)。B,C,Dではそれぞれ女王蟻が生まれるはずである、また、違うコロニーを野生から採取する(E)。その後、コロニーを合体させる(BとC)(DとE)。これで、元同じコロニーの蟻を見極められるか、元違うコロニーの蟻を見極めれるか確かめる。
+- 働きアリが、女王アリや卵をお世話するのかで確かめる
+- 働きアリ同士が、喧嘩しないのかで確かめる
+
+### Problem
+- ファイナルプレゼンに間に合わない
+- どの蟻の種類にするか、どう捕まえるか->購入するなら[サイト](http://antroom.cart.fc2.com/)
+- オスメスや働きアリををどうやって見分けるか->オスと女王アリは羽根がある。
+- アリに色を塗ったりできるのか、区別できるのか
+- 女王アリは捕まえれるのか？それとも勝手にメス蟻の中の誰かがなるのか？->受精卵の中から、選ばれし一つが女王アリ(生殖アリ)になる。その他の受精卵は働きアリ(メス)、未受精卵はオスアリ(生殖アリ)になる
+
+### References
+- [蟻](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA)
+- [蟻の飼育](http://arinko-spot.com/hpgen/HPB/categories/2594.html)
+- [蟻の行動と化学物質](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/43/12/43_12_817/_pdf)
+- [真社会性昆虫の血縁度](https://gene.s-se.info/relatedness)
+
+# My curiosity 
+.orgで探すと記事見つかりやすい?
+
+## Bioinfomatics
+Analytics->Synthetic
+
+## Biodesign 
 デザインの未来は、環境に存在する材料を使う未来であり、それがウェアラブルであれ、車であれ、建物であっても、自然の生態系に組み込むことのできる環境の性質や関係性を変化させることでデザインできる世界だ。組み立てる時代から、新しい有機体の時代へとシフトしていくことを望む
 
-## バイオアートとは
+## Bioart
 アートは生命の未来を更新するのか？バイオへの入り口になるかもしれない。未来の可能性の翻訳。
 
-## マイクロバイオームとは
+## Microbiorm
 生体をハッキングするためには、どうやら微生物のことを考えなければならないみたい。脳をリバースエンジニアリングする発想だけでは足らない？
 
-## エピジェネティクスとは
+## Epigenetics
 DNAの配列がわかっただけでは、まだまだ。遺伝子の発現は環境因子で変わる。リプログラミングはエピジェネティックな標識を初期化すること。
 
-## ホメオカオスとは
+## Homeochaos
 「弱いがたくさんの変数の関係したカオスによる安定性機構」、エピジェネティクスとも関わっていそうな概念
 
-## プロトセルとは
-生命と非生命の境界を考えがえることは、生命とその可能性の理解につながる。  
+## Protocel
+生命と非生命の境界を考えることは、生命とその可能性の理解につながる。  
 - [Ted](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life/transcript?language=ja)
 
-## バイオセンサーとは
+## Biosensor
+
 ![image](https://user-images.githubusercontent.com/29623255/37214941-f26e9f98-23f9-11e8-93be-817bba24d8e4.png)
 
-バイオフィルム(コロニー)からクオラムセンシング(自分と同種の菌の生息密度を感知して、それに応じて物質の産生をコントロールする)  
-蟻の化学物質を介した集団行動　  
-粘菌の自他の判別　　
+- バイオフィルム(コロニー)からクオラムセンシング(自分と同種の菌の生息密度を感知して、それに応じて物質の産生をコントロールする)  
+- 蟻の化学物質を介した集団行動　  
+- 粘菌の自他の判別　　
 
-## 合成生物学(Synthetic biology)とは
+## Synthetic biology(Synbio)
+- [iGem](http://igem.org/Main_Page)
+- [edx](https://courses.edx.org/courses/course-v1:MITx+20.305x_2+1T2017/course/)
+
 ![image](https://user-images.githubusercontent.com/29623255/37194588-495c886c-23b2-11e8-8159-b688b331525a.png)
 
-## Anonymus
-- [Vegan推進](https://anonymous.org.il/english)
+## Meat
+- [Shogin meat](http://animescience.net/?p=3627)
+- [Anonymus](https://anonymous.org.il/english)
+- [Impossible burgar](https://www.impossiblefoods.com/burger/)
 
-## バイオファブリケーション
+## Biofabrication
 - [biocurious](https://sites.google.com/site/bioprinterwiki/) 人工的に植物の細胞をプリントしてそれで光合成,めっちゃエコ  
 - [SILK PAVILION](http://matter.media.mit.edu/environments/details/silk-pavillion) カイコを生体3Dプリンターとして使用,蜘蛛とかでもできるらしい  
 - [幽霊細胞](http://www.instructables.com/id/Ghost-Heart-in-a-Jar/) 豚の心臓から幽霊組織を作って、そこに人の細胞を注入→すでに形あるもの使うのは賢い、[りんご耳](http://tocana.jp/2016/06/post_10094_entry.html)、[ゴッホの耳](http://fundo.jp/47249)  
 - [菌糸体キノコ](http://makezine.jp/blog/2016/10/biodesign-and-biomaterials.html) ダンボールと菌糸体で家具作成→建築を「育てる」とか知らなかった
 
-## セルフメディケーション
+## Self-medication
 - [Nightscout](http://www.nightscout.info/)　持続血糖測定器とインスリンポンプといった既存の糖尿病対応デバイスにプラスアルファで、ハードを作成して自己医療
 
-## 発電できる？
+## Bioenergy
 - [バクテリアで作るバイオ光起電性パネル](https://iaac.net/research-projects/self-sufficiency/moss-voltaics/) 苔が光合成すると、これらの有機化合物の一部が共生細菌を含む土壌に放出されます。バクテリアは生き残るために必要な化合物を分解し、電子を含む副産物を解放します。それで電子取り出して、コンデンサーみたいなのにためて、電池作る。
+
+## Meme
+- [meme](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%A0)
+- [利己的遺伝論](https://ja.wikipedia.org/wiki/%E5%88%A9%E5%B7%B1%E7%9A%84%E9%81%BA%E4%BC%9D%E5%AD%90)
+- 自分は遺伝子によって作られたけれども、進化の過程で生まれた自分を規定できる「意識」という枠組みの中では、遺伝子からは少し独立しているように思う。言いなりではない。意識としての自分の幸せを追求したい。
+
+## Transposon
+
+## Genomic imprinting
+
+# Books
+- [CRISPR 究極の遺伝子編集技術の発見](https://docs.google.com/document/d/1puVqG1SP4hjdUfKimjWWJLCNocVw3GbG-0Wp_Lc8R1c/edit)
+- バイオパンク(DIY科学者たちのバイオハック!)
+- バイオアート(美術手帖)
+- 粘菌　知性の始まりとそのサイエンス->粘菌コンピューター(光嫌がる)
+- 世界は変形菌でいっぱいだ->粘菌にも自他の区別あり
+- マイクロバイオームの世界
+- 土と内臓(未)
+- 利己的な遺伝子(未)
+- サピエンス全史(未)
+
+# Places
+- 日本科学未来館(一般展示)->ラボオンチップ,ステルスケア
+- 国立科学博物館(南方熊楠,地衣類)
+- 国立科学博物館(人体の不思議展)->閃いた時とぼーっとしてる時の脳波が同じ?,レトロトランスポゾン,ゲノムインプリンティング,走査型電子顕微鏡,発生学と合成生物学
 
 # My definition of DIYbio
 
@@ -148,4 +282,4 @@ If you are a biologist and want to explore something outside your expertise, you
 
 ![image](https://user-images.githubusercontent.com/29623255/36112275-7ac19b8a-106c-11e8-814d-fb829ab7fb41.png)
 
-So far Only scientists can accuses biotechnology.But now Thorough DIYbio citizen can dive into the world of biotechnology and can prepare for our near future choise.
+So far only scientists can access biotechnology.But now thorough DIYbio citizen can dive into the world of biotechnology and can prepare for our near future choise.
