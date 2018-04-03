@@ -25,8 +25,8 @@ layout: home
 | 3/20(Tuesday) | ❌ |
 | 3/24(Saturday) | DNA extraction(Mystery meat) |
 | 3/27(Tuesday) | ❌ |
-| 3/31(Saturday) | Crisper experiment? |
-| 4/3(Tuesday) | Final Presentation |
+| 3/31(Saturday) | ❌ |
+| 4/3(Tuesday) | Final Presentation(What is bioinformatics?) |
 
 # My personal project
 
@@ -44,16 +44,16 @@ Through this presentation,I want to output my knowledge about bioinformatics.And
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
 - [Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
 
-## The definition of bioinformatics
+### The definition of bioinformatics
 
 Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, Bioinformatics combines Computer Science, Biology, Mathematics, and Engineering to analyze and interpret biological data.The main task of bioinformatics is analysis and interpretation of various types of data.
 
-## Simple Example 1(Introduction)
+### Simple Example 1(Introduction)
 If you get such DNA sequence, how to count 'A', 'C', 'G', 'T'?  
 
 AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
 
-## Simple Example 2(Global Multiple Alignment)
+### Simple Example 2(Global Multiple Alignment)
 
 If you get such 5 Sequences, how to find which strings are most different from the others?  
 
@@ -68,7 +68,7 @@ CACGTCTGTTCGCCTAAAACTTTGATTGCCGGCCTACGCTAGTTAGTTA
 - Sequence_5  
 GGGGTCATGGCTGTTTGCCTTAAACCCTTGGCGGCCTAGCCGTAATGTTT
 
-## My imagination of our furture
+### My imagination of our furture
 
 Searching about bioinformatics,I realized that what I really want to do is 'Synthetic biology'.I want to not only Read(analysis) but also Write(synthetic) DNA.The below picture is my imagination of our furture.  
 In the furture,DIY biologists will produce synthetic plants or synthetic cars.The outsourcing systems and biological infrastructure will enable us to do like that.The only thing we have to do is to design cells.  
