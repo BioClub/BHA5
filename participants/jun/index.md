@@ -26,6 +26,8 @@ I make a candle mixing with sperm to express the infinity of the life. I wanted 
 i had a doubt against the way to treat the sperm. after people have sex, except for the case of trying to have a baby, those sperms are treated as the garbage and thrown away to the trush bin. thus I thought I wanted to make an work with sperm.
 I got an inspiration from the melting way of candles which sacrifice themselves to brightn and make warm. By making a candle mixing the sperm, I express that we are living on something sacrificed. by looking at the melting process of that candle, we might get the differenct views toward the death.
 
+I was doubtful about the way we treat the sperm after having sex except for the case of trying to have babies. I dont't mean that having sex for fun isnt't a good thing, I'm just saying that treating the sperm as the garbage just like we do for the dust should be avoided. 
+
 #### what I use
 - candle
 
@@ -81,5 +83,9 @@ I got an inspiration from the melting way of candles which sacrifice themselves 
 ![Test Image](image/zoetrope4.JPG)
 ![Test Image](image/zoetrope5.JPG)
 
+### the sub-work
+- grow my genital bacteria
 
+![Test Image](image/genibac1.JPG)
+![Test Image](image/genibac2.JPG)
 
