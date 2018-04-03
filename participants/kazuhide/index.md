@@ -32,7 +32,7 @@ layout: home
 
 ## What is bioinfomatics? What can we do by using it?(Final Presentation)
 
-I wouldn't achieve PlanA~PlanG because growing ants and slime molds or making some devices require too many hours, so I decided to change my plan.I like computer programming and somehow want to approach human body by computer technology.
+I like computer programming and somehow want to approach human body by computer technology.
 Thanks to Biohack-achademy lecture, I started to have curiosity about ‘bioinformatics’ and ‘synthetic-biology'.
 Through this presentation,I want to output my knowledge about bioinformatics.
 
@@ -44,9 +44,29 @@ Through this presentation,I want to output my knowledge about bioinformatics.
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/high-throughput-biology-sequence-networks/)
 - [Genetic-algorhithm](https://www.slideshare.net/kzokm/genetic-algorithm-41617242)
 
-## What is bioinformatics? 
+## The difinition of bioinformatics
 
 Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, Bioinformatics combines Computer Science, Biology, Mathematics, and Engineering to analyze and interpret biological data.The main task of bioinformatics is analysis and interpretation of various types of data.
+
+## Question 1(Introduction)
+If you get such DNA sequence, how to count 'A', 'C', 'G', 'T'?  
+
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+
+## Question 2(Global Multiple Alignment)
+
+Which strings are most different from the others?  
+
+- Rosalind_18  
+GACATGTTTGTTTGCCTTAAACTCGTGGCGGCCTAGCCGTAAGTTAAG
+- Rosalind_23  
+ACTCATGTTTGTTTGCCTTAAACTCTTGGCGGCTTAGCCGTAACTTAAG
+- Rosalind_51  
+TCCTATGTTTGTTTGCCTCAAACTCTTGGCGGCCTAGCCGTAAGGTAAG
+- Rosalind_7  
+CACGTCTGTTCGCCTAAAACTTTGATTGCCGGCCTACGCTAGTTAGTTA
+- Rosalind_28  
+GGGGTCATGGCTGTTTGCCTTAAACCCTTGGCGGCCTAGCCGTAATGTTT
 
 
 ## PlanA(Midterm Presentation) 　
