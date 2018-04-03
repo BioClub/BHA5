@@ -32,6 +32,8 @@ layout: home
 
 ## What is bioinfomatics? What can we do by using it?(Final Presentation)
 
+- [Video](https://vimeo.com/262922235)
+
 I like computer programming and somehow want to approach human body by computer technology.
 Thanks to Biohack-achademy lecture, I started to have curiosity about ‘bioinformatics’ and ‘synthetic-biology'.
 Through this presentation,I want to output my knowledge about bioinformatics.And I also want to imagine our fantastic future possibilities.
